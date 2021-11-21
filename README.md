@@ -1,1 +1,1 @@
-These are the Hugo source files for my personal blog, https://smoliva.blog.
+*Computer Chronicles Revisited* is a blog reviewing the people and products featured on the PBS series that aired from 1983 to 2002.
