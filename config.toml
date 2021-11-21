@@ -33,3 +33,8 @@ paginate = 10
     icon = "rss"
     name = "RSS"
     url = "https://smoliva.blog/index.xml"
+
+#  [[params.social]]
+#    icon = "linkedin"
+#    name = "LinkedIn"
+#    url = "https://gitlab.com/smo1/computer-chronicles-revisited"
