@@ -123,7 +123,7 @@ Stewart Cheifet presented this week's "Random Access," which dates the episode i
 
 ## Andrew Flugelman (1943 - c.1985)
 
-In the last post, I mentioned that the late Mark Bunnell started a foundation in honor of Andrew Flugelman, who turned out to be a featured subject in this episode. Flugelman was the founding editor at both *PC World* and *Macworld*, where Bunnell was the publisher. He also became widely known as the father of "shareware," which he referred to as "freeware." [Benj Edwards](https://www.howtogeek.com/728527/what-is-shareware-and-why-was-it-so-popular-in-the-1990s/) clarified the confusion over the nomenclature in a recent article for *How-To Geek*:
+In the last post, I mentioned that the late David Bunnell started a foundation in honor of Andrew Flugelman, who turned out to be a featured subject in this episode. Flugelman was the founding editor at both *PC World* and *Macworld*, where Bunnell was the publisher. He also became widely known as the father of "shareware," which he referred to as "freeware." [Benj Edwards](https://www.howtogeek.com/728527/what-is-shareware-and-why-was-it-so-popular-in-the-1990s/) clarified the confusion over the nomenclature in a recent article for *How-To Geek*:
 
 > In 1982, Andrew Fluegelman created a telecommunications program called *PC-Talk* on his new IBM PC and began sharing it with his friends. Before long, he realized that he could put a special message inside the software asking for a $25 donation in return for future updates to the program. (Fluegelman called his concept “freeware,” but he reportedly later trademarked the term, leading to its limited use in the industry. The term was redefined after his death in 1985.)
 
