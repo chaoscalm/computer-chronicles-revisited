@@ -9,9 +9,7 @@ tags:
   - "Speech-Synthesis"
 ---
 
-David Murray, who goes by [The 8-Bit Guy](https://www.youtube.com/channel/UC8uT9cgJorJPWu7ITLGo9Ww) on YouTube, had a great video a couple of years back on ["How Speech Synthesizers Work."](https://www.youtube.com/watch?v=XsMRxNSDccc&t=375s) He explained that early devices like the [Texas Instruments "Speak & Spell"](http://www.99er.net/spkspell.html) were not true speech synthesizers, as they relied on a limited vocabulary of pre-recorded words. But even in the mid-1980s there were speech synthesizers that could build words out of basic sounds.
-
-Today's episode of *The Computer Chronicles* from early 1984 also examined the status of speech synthesis during this time period. In fact, Stewart Cheifet even displayed a smaller version of the Speak & Spell during the introduction. He also demonstrated the [Minolta AF-S V](https://petapixel.com/2017/01/12/minolta-af-s-v-talker-80s-camera-spoke/), a "talking" camera that could vocalize basic warning messages to the user, such as that lighting conditions were "too dark!" and the operator needed to "use flash!"
+This next episode of *The Computer Chronicles* from early 1984 examined the status of speech synthesis technology. Stewart Cheifet opened the program by showing off a mini version of the popular Speak & Spell toy. He also demonstrated the [Minolta AF-S V](https://petapixel.com/2017/01/12/minolta-af-s-v-talker-80s-camera-spoke/), a "talking" camera that could vocalize basic warning messages to the user, such as that lighting conditions were "too dark!" and the operator needed to "use flash!"
 
 Cheifet was joined in the co-host's chair this week by Herbert Lechner of SRI International. With respect to the Minolta, Cheifet noted the talking feature wasn't strictly necessary; a blinking light worked fine for most cameras. So he asked Lechner if the use of speech in such devices was a "marketing gimmick" or if there were useful applications for speech in computers. Lechner replied that he found himself not paying attention to the warning lights in his car, yet he paid attention when it talked to him. And there were a number of voice terminals in use today that relied on telephone technology.
 
@@ -71,7 +69,7 @@ Berney has also had a prolific career as a stone carver. He owns and operates [S
 
 + This episode is available on the [Internet Archive](https://archive.org/details/SpeechSy1984), which provides a date of April 9, 1984.
 + There was a *lot* of Herb Lechner in this episode, as he also presented a number of interstitial segments from the *Computer Chronicles Telecourse*.
-+ Lechner mentioned his car talking to him. David Murray's video discussed this feature of early 1980s cars, which basically involved using a small phonograph to play short, prerecorded messages.
++ Lechner mentioned his car talking to him. Some early 1980s cars could do this, but the technology did not involve any speech synthesis; rather, there was a small phonograph in the dashboard that played short, prerecorded messages.
 + We will see Carl Berney again in at least one future *Chronicles* episode. 
 + The Epson HX-20 used for the CallText demonstration was itself a noteworthy device. It was widely considered the "first laptop computer." A Japanese import introduced to North America in late 1982, the HX-20 came with 16 kilobytes of onboard RAM (expandable to 32 KB), a 4-line LCD display, and two 8-bit Hitachi 6301 microprocessors that combined to provide basic 16-bit functionality. The machine also had a built-in dot matrix printer.
 + A sign of the pre-Internet age: Stewart Cheifet and other participants kept calling it "electronic mail" rather than "e-mail."

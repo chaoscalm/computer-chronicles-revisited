@@ -130,8 +130,7 @@ The model seen on the *Computer Chronicles* came out in 1983 and resolved the FC
 ## Notes from the Random Access File
 
 + This episode is available at the [Internet Archive](https://archive.org/details/Computer1984_6), which provided a date of April 5, 1984.
-+ If you want to learn more about the KoalaPad that Stewart Cheifet demonstrated during the introduction, David Murray did an in-depth review and teardown of the graphics tablet for his YouTube channel, [The 8-Bit Guy](https://www.youtube.com/watch?v=0JXi1WSSfHw).
-+ Along similar lines, the YouTube channel [RMC - The Cave](https://www.youtube.com/watch?v=dcifHi2SE-0) managed to find a collector who owns some of the few Quantel Paintboxes still in existence.
++ The YouTube channel [RMC - The Cave](https://www.youtube.com/watch?v=dcifHi2SE-0) managed to find a collector who owns some of the few Quantel Paintboxes still in existence.
 + Pacific Data Images, whose early computer graphics work was featured in the B-roll, went on to do the first 3D animation for "The Simpsons" in 1995 and later became [DreamWorks Animation](http://dreamworks.com/).
 + Aaron Marcus and Associates, the consulting firm that employed Michael Arent at the time of this episode, is still in business. In fact, Arent was the first employee hired by Aaron Marcus when he started his firm in 1982.
 + Unfortunately, I was not able to find any information about the fourth guest in this episode, Ann Chase.
