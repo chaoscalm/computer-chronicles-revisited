@@ -6,7 +6,7 @@ categories:
   - "Computer Chronicles Revisited"
 tags:
   - "Japanese-Personal-Computers"
-draft: False
+draft: True
 ---
 
 Insert text here.
