@@ -27,6 +27,6 @@ A prominent feature of early-era *Computer Chronicles* episodes was Paul Schindl
 + [March 1985](https://smoliva.blog/post/computer-chronicles-revisited-033-steve-boros-sportspak-computennis-ct120-converse-biomechanics-lab/) -- *ExecuTime* (Advanced Productivity Software, $50)
 + [March 1985](https://smoliva.blog/post/computer-chronicles-revisited-034-dollars-sense-bank-america-homebanking-tax-prepaprer-howardsoft/) -- [*The Overhead Express*](https://winworldpc.com/product/overhead-express/1x) (Professional Software, $195)
 + [March 1985](https://smoliva.blog/post/computer-chronicles-revisited-035-macproject-filevision-gem-lotus-jazz/) -- *TopView* (IBM)
-+ [March 1985](https://smoliva.blog/post/computer-chronicles-revisited-036-top-view-concurrent-pc-dos/) -- [*PFS:Proof](https://winworldpc.com/product/pfsproof/bxx) (Software Publishing Corp., $95)
++ [March 1985](https://smoliva.blog/post/computer-chronicles-revisited-036-top-view-concurrent-pc-dos/) -- [*PFS:Proof*](https://winworldpc.com/product/pfsproof/bxx) (Software Publishing Corp., $95)
 + [April 1985](https://smoliva.blog/post/computer-chronicles-revisited-037-equalizer-computer-colorworks-digital-paintbrush-system-att-unix-pc-grid-compass-1101/) -- *Higgins* (Conectic Systems, Inc., $400)
 + [April 1985](https://smoliva.blog/post/computer-chronicles-revisited-038-atari-520st-commodore-128/) -- [*Ability*](https://winworldpc.com/product/ability/12) (Xanaro)
