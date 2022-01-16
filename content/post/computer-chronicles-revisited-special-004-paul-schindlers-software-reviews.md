@@ -30,3 +30,4 @@ A prominent feature of early-era *Computer Chronicles* episodes was Paul Schindl
 + [March 1985](https://smoliva.blog/post/computer-chronicles-revisited-036-top-view-concurrent-pc-dos/) -- [*PFS:Proof*](https://winworldpc.com/product/pfsproof/bxx) (Software Publishing Corp., $95)
 + [April 1985](https://smoliva.blog/post/computer-chronicles-revisited-037-equalizer-computer-colorworks-digital-paintbrush-system-att-unix-pc-grid-compass-1101/) -- *Higgins* (Conectic Systems, Inc., $400)
 + [April 1985](https://smoliva.blog/post/computer-chronicles-revisited-038-atari-520st-commodore-128/) -- [*Ability*](https://winworldpc.com/product/ability/12) (Xanaro)
++ [May 1985](https://smoliva.blog/post/computer-chronicles-revisited-039-msx-comdex-in-japan-85/) -- [*Copy II PC*](https://winworldpc.com/product/copy-ii-pc/3xx) (Central Point Software, $50)
