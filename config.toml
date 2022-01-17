@@ -31,9 +31,13 @@ paginate = 10
     name = "Email"
     url = "mailto:smo@smoliva.com"
   [[params.social]]
-    icon = "gitlab"
-    name = "Gitlab"
-    url = "https://gitlab.com/smo1/computer-chronicles-revisited"
+    icon = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/ChronRevisited"
+  [[params.social]]
+    icon = "github"
+    name = "GitHub"
+    url = "https://github.com/smoliva/computer-chronicles-revisited"
   [[params.social]]
     icon = "rss"
     name = "RSS"
