@@ -158,7 +158,7 @@ Off of *SlideMaster*'s success, Dunn founded Time Arts, Inc., in 1982 to develop
 
 + This episode is available at the [Internet Archive](https://archive.org/details/Computer1985_10) and has an original broadcast date of June 18, 1985. 
 + *MacDraw* was essentially an updated version of *LisaDraw*, one of the programs packaged with the ill-fated Apple Lisa. [Mark Cutter](https://www.linkedin.com/in/mark-cutter-55b37847/details/experience/) is credited as the author of both programs. He worked at Apple until 1991 before moving on to a series of executive roles at a number of companies, most recently as chief technology officer at [FoodChain ID](https://www.foodchainid.com/).
-+ Marein Cremer, now known as [Marein Cremer-Orre](https://www.linkedin.com/in/mark-cutter-55b37847/details/experience/[[`), currently works as a consultant and business coach in the German state of Bavaria. 
++ Marein Cremer, now known as [Marein Cremer-Orre](https://www.linkedin.com/in/marein-cremer-orre-845149/), currently works as a consultant and business coach in the German state of Bavaria. 
 + As noted above, this was the final episode of season two of *Chronicles*. It was also the final appearance of Robin Garthwait as a reporter. Wendy Woods will return for the start of season three.
 + James Dowlen remains an active artist currently living and working in Oregon. According to [Dowlen's website](https://www.dowlenartworks.com/), he's done digital art work for high-profile clients in the entertainment industry and continues to perform private commissions.
 + One of the "robot pets" created by Nolan Bushnell's company was AG Bear, a talking teddy bear, which will be featured in a future *Chronicles* episode.
