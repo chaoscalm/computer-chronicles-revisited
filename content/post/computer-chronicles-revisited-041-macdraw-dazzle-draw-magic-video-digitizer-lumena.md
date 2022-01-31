@@ -1,7 +1,7 @@
 ---
 title: Computer Chronicles Revisited, Part 41 — MacDraw, Dazzle Draw, the Magic Video Digitizer, and Lumena
 description: The Computer Chronicles discusses computer graphics.
-date: 2022-01-30
+date: 2022-01-31
 categories:
   - "Computer Chronicles Revisited"
 tags:
