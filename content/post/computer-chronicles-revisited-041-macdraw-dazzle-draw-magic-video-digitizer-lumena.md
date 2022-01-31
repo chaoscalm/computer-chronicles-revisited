@@ -103,7 +103,7 @@ Stewart Cheifet presented "Random Access," which is dated in June 1985.
 + In the consumer robot market, former Atari executives Nolan Bushnell and Donald Kingsborough had each come up with competing computerized "pet robot" toys. Both men claimed they had already taken $75 million in orders for the 1985 holiday season. 
 + A New Jersey man became so addicted to the online CompuServe game *MegaWars* that he now faced prison time. The man stole a credit card number so he could stay online all night playing the space-themed game. Cheifet joked he may have won the interstellar war but lost the legal battle and now faced a five-year prison term and a $250,000 fine. 
 
-## PDI Went Making Super Bowl Ads to Hollywood Feature Films
+## PDI Went from Making Super Bowl Ads to Hollywood Feature Films
 
 The "Random Access" segment for this episode hinted at two subjects that would dominate the start of season three of *Chronicles* in just a few months--the overall slowdown of the computer industry and Steve Jobs' ouster from Apple. Jobs' departure would, oddly enough, lead to his taking a leading role in the growing market for computer graphics. In early 1986, Jobs acquired the computer graphics division of George Lucas' Lucasfilm Ltd., which was reorganized as an independent company called Pixar. At the time, Pixar was not in the business of making motion pictures--Jobs acquired the division so that he could sell high-end graphics workstations based on Pixar's technology. 
 
