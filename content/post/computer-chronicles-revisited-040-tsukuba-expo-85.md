@@ -38,7 +38,7 @@ Cheifet noted that WABOT-2's movement was controlled by 80 microprocessors arran
 
 While building a human-like robot to play a synthesizer might seem like an unnecessarily complicated way of using a computer to generate music, Cheifet said there was a reason for this "circuitous method." Kato told him this was the best way to establish the basic technology for building 21st-century robots. 
 
-Another Kato design featured at the Expo, the Waseda Hitachi Leg 11 (WHL-11), was a walking biped robot that weighed 120 kilograms. Cheifeft noted the robot required enormous strength just to move. Each of the WHL's "hips" contained a hydraulic power source and a microcomputer.
+Another Kato design featured at the Expo, the Waseda Hitachi Leg 11 (WHL-11), was a walking biped robot that weighed 120 kilograms. Cheifet noted the robot required enormous strength just to move. Each of the WHL's "hips" contained a hydraulic power source and a microcomputer.
 
 ![A robot with a cubic head and four motorized limbs walking across a stage.](/img/cc-whl11.png)
 
@@ -64,7 +64,7 @@ Stewart Cheifet presented this week's "Random Access," which is dated in early M
 
 ![Box cover art for a 1985 software program called "BANK PRESIDENT" by Lewis Lee Corporation. The cover features a blown-up image of a $100 bill. The description says, "Play Bank President,' Where Your Decisions Will Build, or Ruin, a Financial Empire!"](/img/cc-bank-president.png)
 
-+ Logical Business Systems announced a new add-on board for the IBM PC called *VoiceCommand* that promised voice recognition capabilities. Cheifeft said the system had a vocabulary of 32,000 words and essentially turned any software program's keyboard commands into spoken commands.
++ Logical Business Systems announced a new add-on board for the IBM PC called *VoiceCommand* that promised voice recognition capabilities. Cheifet said the system had a vocabulary of 32,000 words and essentially turned any software program's keyboard commands into spoken commands.
 + Apple lowered its 1985 sales projections and acknowledged the layoffs of 75 workers, as well as the elimination of 1,500 part-time jobs.
 + Blue Cross and Blue Shield of Maryland announced a new laser ID card for its health insurance customers. The card could carry up to 800 pages of medical history, including a record of past medical problems, digitized X-rays, and complete insurance information.
 + General Motors was still deciding what state to build its new $3.5 billion plant in to manufacture the new Saturn car. GM said it would turn the final decision over to computer, although humans would intervene if the computer came up with a tie.

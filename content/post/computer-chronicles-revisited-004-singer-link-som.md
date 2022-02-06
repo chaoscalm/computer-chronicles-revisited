@@ -9,7 +9,7 @@ tags:
   - "Simulator-Software"
 ---
 
-Normally, *The Computer Chronicles* demos consumer software and hardware. Stewart Cheifet often described his role as doing the legwork on behalf of the viewer so they knew what products to buy. This particular episode, however, goes in a somewhat different direction. The subject is simulator software, but aside from the opening host segment, the episode is largely devoted to proprietary software used in non-consumer applications. 
+Normally, *The Computer Chronicles* highlighted consumer software and hardware. Stewart Cheifet often described his role as doing the legwork on behalf of the viewer so they knew what products to buy. This particular episode, however, goes in a somewhat different direction. The subject is simulator software, but aside from the opening host segment, the episode is largely devoted to proprietary software used in non-consumer applications. 
 
 ## Flight Simulators -- Computer Game vs. Training Tool
 
@@ -39,7 +39,7 @@ Harrison then showed some perspective drawings that were made using his firm's p
 
 Kildall asked if this type of simulation software was being used throughout the architecture profession or just by SOM. Harrison said this particular software was "special to his firm," but that other architects had systems "that begin to approach this." He said SOM was trying to keep "one step ahead" of its competition in this regard. There were also a number of non-proprietary systems that had some aspects of SOM's software, but his company offered an "integrated system" that applied to "all of the architectural and engineering disciplines in the firm."
 
-Cheifet asked if SOM's software simulated the environmental impact of a structure. Harrison said it did, and in fact that was a major use of the system. He again referred to "massing studies," which Cheieft asked him to define. Harrison explained that this simply referred to the mass of a building and how it fit into a "tight urban environment" like San Francisco. 
+Cheifet asked if SOM's software simulated the environmental impact of a structure. Harrison said it did, and in fact that was a major use of the system. He again referred to "massing studies," which Cheifet asked him to define. Harrison explained that this simply referred to the mass of a building and how it fit into a "tight urban environment" like San Francisco. 
 
 Harrison then showed a final example, this time from a shadow study of [the Bank of American Building in San Francisco](https://www.vno.com/office/property/555-california-street/3311899/landing), then known as the Bank of America Building. Specifically, this simulation showed the shadow cast each hour by the building. Cheifet asked if it was worth the cost of a computer simulation to do such studies. In other words, Was it that difficult to study a shadow manually? Harrison replied it was, especially if you are looking at making major changes to a building. Traditionally, architects build small physical models to do these type of studies. But in a city like San Francisco where there were a lot of different structures and interaction between shadows, it was easier to test a "large number of different designs" using a computer simulation.
 
@@ -55,13 +55,13 @@ Unfortunately, I was not able to track down anything definitive about Frank Lewa
 
 In 1981, Singer split the Link Division into two parts. The first part, Link Simulation Systems Division (later Link Tactical Simulations Division), was based in Maryland and focused on energy and industrial simulations. The second part, Link Flight Simulation Division, apparently continued to focus on flight simulators and was likely where Lewandowski worked. A few years after Lewandowski appeared on *Chronicles*, Canadian firm CAE Industries purchased Link Simulation Systems from Singer. By 1990, CAE had also acquired the Flight Simulation Division and consolidated the two divisions back into one unit. CAE renamed itself as CAE-Link. 
 
-Hughes Electronics Corporation purchased CAE-Link in 1995. Three years later, Raytheon purchased Hughes. Finally, in 2000, L-3 Communications acquired Raytheon. And despite all of the corproate turnover, the Link simulation business continues in 2021 as [L3Harris](https://www.l3harris.com/all-capabilities/modeling-simulation).
+Hughes Electronics Corporation purchased CAE-Link in 1995. Three years later, Raytheon purchased Hughes. Finally, in 2000, L-3 Communications acquired Raytheon. And despite all of the corprorate turnover, the Link simulation business continues in 2021 as [L3Harris](https://www.l3harris.com/all-capabilities/modeling-simulation).
 
 ### Harrison Moved from Architecture to Academia
 
 SOM, Steve Harrison's architecture firm, is also still in business today. Skidmore, Owings & Merill dates its own history back to 1936, when it was founded in Chicago by architects Louis Skidmore and Nathalien Owings. John O. Merrill, an engineer, joined the firm three years later. Today, SOM is known for its work on a number of famous buildings, including New York City's One World Trade Center and the Burj Khalifa in Dubai, which is currently the world's tallest building.
 
-[Harrison](https://people.cs.vt.edu/%7Esrh/) himself is no longer with SOM. He left the firm not too long after his *Chronicles* appearance. In 1985, he joined [Xerox PARC](https://www.parc.com/) as a member of its research staff. He stayed there until 2002, when he left to found two startup companies before entering academia. Since 2003, Harrison has been an [associate professor at Virginia Tech's Department of Computer Science and School of Visual Arts](https://people.cs.vt.edu/srh/Downloads/SteveHarrisonCV.pdf). He also serves as director of Virginia Tech's Human-Centered Design Progran and co-director of the Social Informatics Area for the Graduate School.
+[Harrison](https://people.cs.vt.edu/%7Esrh/) himself is no longer with SOM. He left the firm not too long after his *Chronicles* appearance. In 1985, he joined [Xerox PARC](https://www.parc.com/) as a member of its research staff. He stayed there until 2002, when he left to found two startup companies before entering academia. Since 2003, Harrison has been an [associate professor at Virginia Tech's Department of Computer Science and School of Visual Arts](https://people.cs.vt.edu/srh/Downloads/SteveHarrisonCV.pdf). He also serves as director of Virginia Tech's Human-Centered Design Program and co-director of the Social Informatics Area for the Graduate School.
 
 ## Notes from the Random Access File
 

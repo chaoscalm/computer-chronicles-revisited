@@ -9,7 +9,7 @@ tags:
 draft: False
 ---
 
-From time to time, I'll be posting these "Special" blogs, which only indirectly relate back to a *Computer Chronicles* episode. Basically, a "Random Access" item or an offhand reference made during a show will send me down an interesing rabbit hole. But since the normal posts are long enough, I thought it made sense to segregate these tangents into their own shorter standalone posts.
+From time to time, I'll be posting these "Special" blogs, which only indirectly relate back to a *Computer Chronicles* episode. Basically, a "Random Access" item or an offhand reference made during a show will send me down an interesting rabbit hole. But since the normal posts are long enough, I thought it made sense to segregate these tangents into their own shorter standalone posts.
 
 ## Space-Age Technology for the Retail Makeup Counter
 
@@ -17,7 +17,7 @@ For this first special, I want to expand upon this "Random Access" item from the
 
 >A cosmetics company, Elizabeth Arden, was now using a computer–-called “Elizabeth”-–to help women shop for makeup. The machine captured a still-frame photo of a customer. The operator then applied various cosmetics to the photo electronically. When the customer was satisfied, the operator printed out the image with a list of cosmetics to purchase.
 
-Elizabeth Arden, Inc., was actually a very old cosmetics even in the 1980s. Founded in 1910 by its namesake, Canadian-born businesswoman Elizabeth Arden, her successors had apparently been contemplating the idea of a "beauty computer" as far back as the mid-1970s. 
+Elizabeth Arden, Inc., was actually a very old cosmetics company even in the 1980s. Founded in 1910 by its namesake, Canadian-born businesswoman Elizabeth Arden, her successors had apparently been contemplating the idea of a "beauty computer" as far back as the mid-1970s. 
 
 The company's inspiration was, of all things, NASA. According to a [January 1985 article](https://spinoff.nasa.gov/node/9309) in NASA's *Spinoff* publication, scientists at the Elizabeth Arden Research Center in Indianapolis decided to reach out to their NASA brethren to figure out how technology originally developed to study the surfaces of Mars and Saturn could be adapted to study human skin. 
 

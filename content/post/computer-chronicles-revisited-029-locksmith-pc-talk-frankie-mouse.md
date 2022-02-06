@@ -12,7 +12,7 @@ In the [last episode](https://smoliva.blog/post/computer-chronicles-revisited-02
 
 You might wonder, then, why anyone would have purchased the copy protected version in the first place. The answer was likely price. According to Borland's advertising from the time--early 1985--the protected version cost $55, while the non-protected version ran $85. 
 
-Copy protection, of course, referred to a number of different methods used during the era of disk-based software distribution to prevent users from making additional copies--and possibly giving away or selling those copies to other potential customers. The industry took to referring to the practice of unauthorized copying as "software piracy," which is the subject of this next *Computer Chronicles* episode.
+Copy protection, of course, referred to a number of different methods used during the era of disk-based software distribution to prevent users from making additional copies--and possibly giving away or selling those copies to other potential customers. The industry took to referring to the practice of unauthorized copying as "software piracy," which was the subject of this next *Computer Chronicles* episode.
 
 ## "Why Did Software Cost So Much?"
 
@@ -46,7 +46,7 @@ Pump noted that *Locksmith* was not a very fast utility. It took between 8 and 1
 
 Kildall clarified that *Locksmith* then was not intended for use as a piracy tool. Pump said in the [product's manual](https://mirrors.apple2.org.za/ftp.apple.asimov.net/documentation/applications/misc/Locksmith%20User%20Manual.pdf) and advertising, it was made clear that users were only to use *Locksmith* for legal purposes. Of course, there were people who used it for piracy, even though there were much better ways to pirate software than *Locksmith*.
 
-Cheifet asked McKeithen for his reaction. McKeithen said the problem with a product like *Locksmith* was that it faciliated people getting into stealing. It made it much too simple. If, in fact, a user of Activision's products had a problem with their original disk, they could call a toll-free line or send the damaged product in for a replacement. Activision offered a 1-year warranty. He added the company received over 3,000 pieces of mail per week from users who wanted to know about upcoming products. These users had formed a bond with Activision, which the company would not ignore by not giving them good service. And all of the responsible software manufacturers followed that same trend. So McKeithen saw no need for a product like *Locksmith* in the event of someone having a damaged product they wanted to use.
+Cheifet asked McKeithen for his reaction. McKeithen said the problem with a product like *Locksmith* was that it facilitated people getting into stealing. It made it much too simple. If, in fact, a user of Activision's products had a problem with their original disk, they could call a toll-free line or send the damaged product in for a replacement. Activision offered a 1-year warranty. He added the company received over 3,000 pieces of mail per week from users who wanted to know about upcoming products. These users had formed a bond with Activision, which the company would not ignore by not giving them good service. And all of the responsible software manufacturers followed that same trend. So McKeithen saw no need for a product like *Locksmith* in the event of someone having a damaged product they wanted to use.
 
 Kildall pushed back a little, noting software providers weren't allowing for the possibility of legitimate backups. He noted he ran into this problem himself, as there were programs he could not get onto his hard disk. McKeithen asked if Kildall had talked to the manufacturers about such problems. Kildall said sure he did, but they replied they didn't want to give up control over distribution due to fears of illegitimate copying. McKeithen acknowledged there was a tension in the system, but the problem with a product like *Locksmith* and the wider-than-Activision-would-like use of illegitimate copies was that in the long range it would spoil the production of creative intellectual property for everyone. And that, he said, was a zero-sum game.
 
@@ -70,7 +70,7 @@ Following up on John Draper's earlier mention of "freeware" as an alternative me
 
 Flugelman told Woods that what he had done was simply address the whole notion of copy protection and piracy in a different way. Rather than restricting access to the program and appealing to people's dishonesty, he was giving wider access to the program and appealing to the user's honesty. Woods said about 1 out of every 10 users who copied *PC-Talk* not only paid the suggested registration fee of $35; they also sent letters of appreciation to Flugelman. 
 
-But what did this freeware model mean in terms of support, which was usually the biggest part of a software company's budget? What did Flugelman do if people hadn't paid for the program? He told Woods that they did better business by giving out the information, and if someone was using *PC-Talk* and hadn't paid, by helping them to use the program they were more likely to pay. Woods said that Flugelman thought the rest of the industry could take a lesson from his approach. He rececived important feedback, business, and appreciation because of his philosophy. And while Flugelman wasn't getting rich, he did receive a surprising amount of gratitude. 
+But what did this freeware model mean in terms of support, which was usually the biggest part of a software company's budget? What did Flugelman do if people hadn't paid for the program? He told Woods that they did better business by giving out the information, and if someone was using *PC-Talk* and hadn't paid, by helping them to use the program they were more likely to pay. Woods said that Flugelman thought the rest of the industry could take a lesson from his approach. He received important feedback, business, and appreciation because of his philosophy. And while Flugelman wasn't getting rich, he did receive a surprising amount of gratitude. 
 
 ### "Basically, It's Just for Fun and Recognition."
 
@@ -78,7 +78,7 @@ Back in the studio, Cheifet, Kildall, and Smith were joined by a teenage softwar
 
 Mouse logged into an online bulletin board used by hackers that displayed a list of text filed that provided information on how to commit software piracy, such as "Basics of Cracking 101." He said that if you didn't already know how to pirate software, these files would teach you. Mouse clarified that he did not write these how-to files. Someone else wrote them and they were now available throughout the country on different boards.
 
-Kildall asked how many people were involved in these kind of bulletin boards. Mouse said it depended on the board. Some had as few as 100 members, while others might have between 2,000 and 3,000 users. 
+Kildall asked how many people were involved in these kinds of bulletin boards. Mouse said it depended on the board. Some had as few as 100 members, while others might have between 2,000 and 3,000 users. 
 
 Cheifet asked if it was possible to use the board Mouse had logged onto to actually get a piece of pirated software. Mouse explained that there were separate online repositories known as AE Lines used to actually download pirated software. These were not bulletin boards. Rather, they allowed the pirate to call a computer and download programs where the copy protection had been cracked. 
 
@@ -117,7 +117,7 @@ Stewart Cheifet presented this week's "Random Access," which dates the episode i
 + Hewlett-Packard planned to release an upgrade to its 110 Portable computer. Cheifet said the new model would have a 24-line display, 512 KB of RAM, and cost under $2,000, although it would not include any bundled software. (This machine would be known as the [HP 110 Plus](http://www.oldcomputers.net/hp110.html).)
 + According to a survey by Software Access International, the average computer owner spent about 12.2 hours per week on their PC, dividing that time equally between work and gaming.
 + COMEX, the New York Commodity Exchange, was now selling a computer simulation of commodities trading, which it hoped would encourage people to enter the field.
-+ Finally, *New York* magazine announced a new electronic mail service, *XNET*, that provided an online bulletin board for personal ads. Cheifet said about 300 people had already signed up for the service. (The service cost $25 for the initial subscription plus $5 per month to rent the electonic mail box.)
++ Finally, *New York* magazine announced a new electronic mail service, *XNET*, that provided an online bulletin board for personal ads. Cheifet said about 300 people had already signed up for the service. (The service cost $25 for the initial subscription plus $5 per month to rent the election mailbox.)
 
 ![Advertisement from "New York" Magazine, c. 1985: "Have a Computer? Join XNET. The adult computer bulletin board & electronic mail service. Read & respond to hundreds of personal ads thru your own computer."](/img/cc-xnet.png)
 
@@ -129,7 +129,7 @@ In the last post, I mentioned that the late David Bunnell started a foundation i
 
 Indeed, about six months after this *Chronicles* episode aired, Flugelman disappeared. He was never seen again and is presumed dead. According to a September 1985 report in [*PC Magazine*](https://books.google.com/books?id=NFT964jBihIC&pg=PA35&lpg=PA35), 
 
->Flugelman had been reported missing on July 8. His 1982 Mazda was found on July 11, abandoned near the north end of the Golden Gate Bridge. Tiburon police, still treating his disappearance as a missing-perons case, found a note in Flugelman's car but say its contents were "inconclusive." 
+>Flugelman had been reported missing on July 8. His 1982 Mazda was found on July 11, abandoned near the north end of the Golden Gate Bridge. Tiburon police, still treating his disappearance as a missing-persons case, found a note in Flugelman's car but say its contents were "inconclusive." 
 >
 >A memorial service was held in White Plains, N.Y., by Flugelman's relatives on July 14. In San Francisco, a service for Flugelman was held on July 19.
 

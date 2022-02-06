@@ -16,7 +16,7 @@ Although Stewart Cheifet is long remembered as the host and executive producer o
 
 ### From Math Teacher to Early Computer Publishing Pioneer
 
-Starting in the late 1960s, Warren supplemented his teaching work by freelancing as a programmer and computer industry consultant. While consulting for a company called Signetics in 1975, Warren met a fellow consultant, Gary Kildall. According to Kildall's [unpublished memoirs](http://s3data.computerhistory.org/kildall-p.1-78-publishable-lowres.pdf), Warren convinced him to start selling his CP/M operating system "to the masses." Kildall subsequently took out an advertisement in a computer magazine started by Warren--[*Dr. Dobb's Journal of Computer Calesthenics and Orthodontia*](https://archive.org/details/dr_dobbs_journal_vol_01/mode/2up)--offering copies of CP/M for $25.
+Starting in the late 1960s, Warren supplemented his teaching work by freelancing as a programmer and computer industry consultant. While consulting for a company called Signetics in 1975, Warren met a fellow consultant, Gary Kildall. According to Kildall's [unpublished memoirs](http://s3data.computerhistory.org/kildall-p.1-78-publishable-lowres.pdf), Warren convinced him to start selling his CP/M operating system "to the masses." Kildall subsequently took out an advertisement in a computer magazine started by Warren--[*Dr. Dobb's Journal of Computer Calisthenics and Orthodontia*](https://archive.org/details/dr_dobbs_journal_vol_01/mode/2up)--offering copies of CP/M for $25.
 
 Later shortened to just *Dr. Dobb's Journal*, which remained in publication until 2014 under different editors, this was one of many early computer newsletters and magazines started by Warren. Perhaps the most notable aside from *Dr. Dobb's Journal* was *Intelligent Machines Journal*, which Warren founded in 1978. A year later, Warren sold that publication to IDG, which renamed it *InfoWorld* in 1980. (Classic issues of *InfoWorld* are frequently cited on this blog.)
 
@@ -30,7 +30,7 @@ The only records I've been able to find regarding Warren's tenure as the first *
 
 >The show will address current events and issues in microcomputing, including applications, new products, personalities, business issues, foreseeable futures, etc. Although the show will make a reasonable effort to be intelligent to the layperson, it is designed for viewers who have some interest in low-cost computing power or personal computers--people who are at least semi-literate about computing.
 
-The article went on to say the new program would be called *The Computer Chronicles*, as that name was "neither technonut nor provincial." Many of the other names considered featured some variation of "Silicon Valey" in the title, such as *The Silicon Valley Weekly Connection* or *The Silicon Valley Weekly Oracle*. The working title used in-house at KCSM had been *Bits & Bytes*, but Warren didn't care for that name.
+The article went on to say the new program would be called *The Computer Chronicles*, as that name was "neither technonut nor provincial." Many of the other names considered featured some variation of "Silicon Valley" in the title, such as *The Silicon Valley Weekly Connection* or *The Silicon Valley Weekly Oracle*. The working title used in-house at KCSM had been *Bits & Bytes*, but Warren didn't care for that name.
 
 As for the selection of Warren as host, the article credited that decision to Cheifet and David Carlson, who initially produced the program. There had also been discussion of either using rotating hosts or a panel. But Cheifet and Carlson ultimately settled on Warren as the single, permanent host.
 
@@ -38,7 +38,7 @@ The *Gulch Gazette* further provided the only listings (that I am aware of) for 
 
 Another early show, which seemed to have been scheduled to air first but later pushed back, featured Adam Osborne and Lee Felsenstein, who demonstrated their Osborne I computer. Osborne [later appeared](https://smoliva.blog/post/computer-chronicles-revisited-023-steve-wozniak-adam-osborne-lore-harp-gene-amdahl/) on the Cheifet-hosted *Chronicles* in 1984. 
 
-The next issue of*Silicon Gulch Gazette*, published in [November 1981](http://www.bitsavers.org/pdf/computerFaire/SiliconGulchGazette/26_Nov81.pdf), included projected listings for the remaining  *Computer Chornicles* episodes of that year:
+The next issue of *Silicon Gulch Gazette*, published in [November 1981](http://www.bitsavers.org/pdf/computerFaire/SiliconGulchGazette/26_Nov81.pdf), included projected listings for the remaining  *Computer Chronicles* episodes of that year:
 
 + November 5 -- Software Entrepreneurs (Gary Kildall was likely one of the guests on this episode.)
 + November 12 -- More Educational Computing

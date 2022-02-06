@@ -23,7 +23,7 @@ Cheifet said machines that could understand and carry out such verbal commands h
 
 Carl Berney, a vice president with Speech Plus, Inc., joined Cheifet and Lechner for the next segment. Lechner opened the discussion by asking Berney to explain how a computer synthesized speech. Berney said his company's product--a Speech Plus CallText synthesizer connected to an [Epson HX-20](http://oldcomputers.net/hx-20.html) computer--could take any ASCII text and convert it into intelligible speech. The circuitry first looked at the words, decided which phonemes (the basic elements of speech) were in those words, and then put those phonemes together. The machine also "massaged" the words to make sure that they flow in the same way as natural speech. This was then converted to a set of parameters for the speech synthesizer, which produced the final speech.
 
-Cheifet asked Berney to explain phonemes further. Berney said a phoneme was basically a "short sound." It was a fundamental element of language such that changing a phoneme would also change the meaning of a word. He said there were roughly 38 to 45 phonemes in the Englisgh language depending on which linguist you asked. Other languages had roughly the same number.
+Cheifet asked Berney to explain phonemes further. Berney said a phoneme was basically a "short sound." It was a fundamental element of language such that changing a phoneme would also change the meaning of a word. He said there were roughly 38 to 45 phonemes in the English language depending on which linguist you asked. Other languages had roughly the same number.
 
 Lechner asked if the CallText covered the entire English language. Berney replied that it did. Lechner asked what type of computer was necessary for the speech synthesizer to work. Berney said the product was based on a commercially available 16-bit microcomputer.
 
@@ -37,7 +37,7 @@ Cheifet noted that during the introduction, he and Lechner described this techno
 
 Berney then demonstrated the CallText on the HX-20. He had stored some text messages ahead of time, which the device played. Cheifet asked if it were possible for him to call up his computer remotely and have the CallText read back his electronic mail messages to him. Bernery said it could. The CallText could access "any text database over the telephone." Lechner asked how big was the market for such a feature. Berney replied it was a new application, and as of now there were no commercial online services that supported the CallText. However, Speech Plus was talking to "most of the major electronic mail suppliers" about potential adoption.
 
-Cheifet then asked Berney to show the actual CallText product. Berney explained it was an expansion board that plugged into an IBM Persona Computer. The board had its own microprocessor and both a standard telephone interface and an [RS-232 serial port](https://en.wikipedia.org/wiki/RS-232). 
+Cheifet then asked Berney to show the actual CallText product. Berney explained it was an expansion board that plugged into an IBM PC. The board had its own microprocessor and both a standard telephone interface and an [RS-232 serial port](https://en.wikipedia.org/wiki/RS-232). 
 
 ### An Early Voice Menu System
 
