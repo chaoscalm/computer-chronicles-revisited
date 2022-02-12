@@ -33,3 +33,7 @@ A prominent feature of early-era *Computer Chronicles* episodes was Paul Schindl
 + [May 1985](https://smoliva.blog/post/computer-chronicles-revisited-039-msx-comdex-in-japan-85/) -- [*Copy II PC*](https://winworldpc.com/product/copy-ii-pc/3xx) (Central Point Software, $50)
 + [May 1985](https://smoliva.blog/post/computer-chronicles-revisited-040-tsukuba-expo-85/) -- *Bank President* (Lewis Lee Corporation, $75)
 + [June 1985](https://smoliva.blog/post/computer-chronicles-revisited-041-macdraw-dazzle-draw-magic-video-digitizer-lumena/) -- [*The Stickybear ABC*](https://www.mobygames.com/game/apple2/stickybear-abc) (Xerox Educational Publications, $40)
+
+## Season 3 (1985-1986)
+
++ [Septemebr 1985](https://smoliva.blog/post/computer-chronicles-revisited-042-david-crockett-sam-colella-deborah-wise-david-norman/) -- *CataList* (Automation Consultants International, $250)

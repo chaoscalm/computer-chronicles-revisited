@@ -9,7 +9,7 @@ tags:
 draft: False
 ---
 
-One late night in the summer of 1972, an electrical engineering graduate student at the University of Washington named Tom Rolander was working in the school's computer science lab when he saw a "fellow who liked like a student" sporting red hair and wearing cutoffs enter the room. The red-haired man pulled out a teletype, plugged it into a Sigma 5 computer, and started programming an Intel 4004--the very first commercially produced microprocessor, which had been released the previous November.
+One late night in the summer of 1972, an electrical engineering graduate student at the University of Washington named Tom Rolander was working in the school's computer science lab when he saw a "fellow who looked like a student" sporting red hair and wearing cutoffs enter the room. The red-haired man pulled out a teletype, plugged it into a Sigma 5 computer, and started programming an Intel 4004--the very first commercially produced microprocessor, which had been released the previous November.
 
 Rolander said he was so "enamored" by what the red-haired man was doing that he went up and introduced himself. The red-haired man said his name was Gary Kildall. Intel had actually hired Kildall, then working at the Naval Postgraduate School in Monterey, California, to build a monitor--essentially a basic form of computer firmware--for the 4004. 
 
