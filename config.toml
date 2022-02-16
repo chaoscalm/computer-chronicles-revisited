@@ -35,10 +35,6 @@ paginate = 10
     name = "Twitter"
     url = "https://twitter.com/ChronRevisited"
   [[params.social]]
-    icon = "github"
-    name = "GitHub"
-    url = "https://github.com/smoliva/computer-chronicles-revisited"
-  [[params.social]]
     icon = "rss"
     name = "RSS"
     url = "https://smoliva.blog/index.xml"
