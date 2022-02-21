@@ -37,3 +37,4 @@ A prominent feature of early-era *Computer Chronicles* episodes was Paul Schindl
 ## Season 3 (1985-1986)
 
 + [Septemebr 1985](https://smoliva.blog/post/computer-chronicles-revisited-042-david-crockett-sam-colella-deborah-wise-david-norman/) -- *CataList* (Automation Consultants International, $250)
++ [September 1985](https://smoliva.blog/post/computer-chronicles-revisited-043-trip-hawkins-john-merson-ben-anixter-richard-obrien/) -- *Ultimate Trivia* (Mentor Learning Systems, $50)
