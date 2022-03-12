@@ -15,6 +15,8 @@ The notion that computer games--and by extension, computers in general--were jus
 
 This next *Chronicles* episode largely focused on the positive, however, showcasing a number of women who were successful in various facets of the computer industry and looking at efforts to expand computer access for younger girls through education and gaming. 
 
+{{< youtube id="vMMAlmF2dv0" title="Computer Chronicles Episode 303 - Women in Computing" >}}
+
 ## Computers Failed to Prove an "Equalizer" Among the Sexes 
 
 Stewart Cheifet opened the program standing next to a group of children using computers at [San Francisco's Exploratorium](https://www.exploratorium.edu/). He noted there were just as many girls as boys visiting the exhibit, suggesting that the stereotype that computers were mainly for boys and men was incorrect. 
