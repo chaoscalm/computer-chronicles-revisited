@@ -17,7 +17,9 @@ The creator of *PostScript* was one of the in-studio guests in this next *Comput
 
 In the studio introduction, Cheifet showed Gary Kildall a paperback book that was made entirely on a Macintosh using a laser printer. Cheifet noted the difference in quality from the printers featured on the show a couple of years ago. Cheifet pointed out that back then, Kildall said progress in printer technology would be slow because printers depended on a lot of mechanics rather than electronics. Was he wrong about that? Kildall quipped that we'd never get over the fact that a printer was where the electronic signal became ink-on-paper, and that process hadn't been helped that much by microchip technology. And while laser printers now made high-resolution text publishing more affordable, the challenge now was to see if it could do the same for high-resolution graphics. 
 
-### What You See on the Screen Is What Comes Out of the Printer
+{{< youtube id="wbkWVx4lv-8" title="Computer Chronicles Episode 304 - Printers and Business Graphics" >}}
+
+## What You See on the Screen Is What Comes Out of the Printer
 
 Wendy Woods presented her first remote segment, narrating some B-roll footage taken at an unidentified company that used a computer and high-end printer to do its publishing in-house. Woods said the effectiveness of a document depended on the visual impact it made on the reader. As a result, most companies with in-house publishing departments depended heavily on their graphic artists to produce attractive publications. Woods noted there were many drawbacks to this dependence, such as the obvious "typewriter" look of the text and the tedious process of manually pasting up diagrams and drawings. 
 
