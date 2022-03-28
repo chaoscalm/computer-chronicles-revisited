@@ -41,3 +41,5 @@ A prominent feature of early-era *Computer Chronicles* episodes was Paul Schindl
 + [September 1985](https://smoliva.blog/post/computer-chronicles-revisited-044-thelma-estrin-judith-estrin-elizabeth-stott-kay-gilliland-jan-lewis-adele-goldberg/) -- *Da Vinci* (Applied Microsystems, $60)
 + [September 1985](https://smoliva.blog/post/computer-chronicles-revisited-045-okimate-20-ibm-quietwriter-hp-laserjet-plus-adobe-postscript/) -- *PC Color* (Affirmware, $35/$44)
 + [October 1985](https://smoliva.blog/post/computer-chronicles-revisited-046-kron-tv-usa-today-kcbs-radio-aurora-75-graphics-system/) -- *Bakup* (InfoTools, $150)
++ [October 1985](https://smoliva.blog/post/computer-chronicles-revisited-047-the-well/) -- *NFL Challenge* (Xor, $99)
++ [October 1985](https://smoliva.blog/post/computer-chronicles-revisited-048-ethermac-token-ring-tops/) -- *Concepts Computerized Atlas* (Software Concepts, $5/trial version or $50/unlocked version)
