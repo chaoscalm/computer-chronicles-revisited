@@ -1,6 +1,6 @@
 ---
 title: Computer Chronicles Revisited, Part 48 — EtherMac, Token Ring, and TOPS
-description: The Computer Chronicles discusses computere networks.
+description: The Computer Chronicles discusses computer networks.
 date: 2022-03-27
 categories:
   - "Computer Chronicles Revisited"
@@ -143,7 +143,7 @@ In 2000, Goldhaber returned to politics, this time as the vice presidential nomi
 
 Dr. John Hagelin, a physicist, joined MUM--now called [Maharishi International University](https://www.miu.edu/)--in 1984 and currently serves as its president. Hagelin co-founded the NLP in 1992 to promote governance based on TM principles. He was also the party's presidential nominee in 1992, 1996, and 2000. Mike Tompkins, another physicist, was Hagelin's running mate in the first two elections. Goldhaber took over the number-two slot in 2000. As I noted in [my blog post at the time](https://web.archive.org/web/20010225073353/http://www.generationvote.com/focus_08-16-00_2.html), "Goldhaber has promised to provide Hagelin with financial support and the use of two planes."
 
-The Hagelin-Goldhaber ticket only appeared on 38 state ballots, winning a total of 83,714 votes nationally. This proved to be the NLP's last stand. The party dissolved in April 2004 Goldhaber hasn't been a political candidate since and instead is [living the venture capitalist lifestyle](https://claremontcreek.com/team/nat-goldhaber/) in San Antonio.
+The Hagelin-Goldhaber ticket only appeared on 38 state ballots, winning a total of 83,714 votes nationally. This proved to be the NLP's last stand. The party dissolved in April 2004. Goldhaber hasn't been a political candidate since and instead is [living the venture capitalist lifestyle](https://claremontcreek.com/team/nat-goldhaber/) in San Antonio.
 
 As for Centram Systems West, Sun renamed the company TOPS shortly after the acquisition. *TOPS* the product continued to do well up until Apple released Macintosh System 7 in 1991, which finally included its own built-in file server. This effectively eliminated the market for *TOPS*. (The common practice of Apple assimilating third-party features into its core OS would [later be called "Sherlocking"](https://www.howtogeek.com/297651/what-does-it-mean-when-a-company-sherlocks-an-app/).) Sun tried to cut its losses by spinning off TOPS into a separate company, Sitka Corporation, but when it couldn't find a buyer, Sun shut down the former TOPS entirely in 1993.
 
