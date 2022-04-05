@@ -14,7 +14,12 @@ paginate = 10
     name = "Tags"
     url = "/tags/"
     weight = 2
-
+  [[menu.main]]
+    identifier = "mastodon"
+    name = "Mastodon"
+    url = "https://mastodon.social/@chronrevisited"
+    weight = 3
+    
 [params]
   author = "S.M. Oliva"
   description = "A review of the PBS series that aired from 1983 to 2002. Written by S.M. Oliva."
@@ -33,8 +38,7 @@ paginate = 10
     icon = "github"
     name = "Github"
     url = "https://github.com/smoliva/computer-chronicles-revisited"
-
-#  [[params.social]]
-#    icon = "linkedin"
-#    name = "LinkedIn"
-#    url = "https://gitlab.com/smo1/computer-chronicles-revisited"
+  [[params.social]]
+    icon = "linkedin"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/smoliva/"
