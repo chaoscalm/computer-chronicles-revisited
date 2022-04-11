@@ -37,4 +37,5 @@ Episode | Date | Title | Description | Publisher | Price
 307 | October 1985 | *Bakup* | Backup Utility | InfoTools | $150
 308 | October 1985 | *NFL Challenge* | Sports Management Simulator | Xor | $99
 309 | October 1985 | *Concepts Computerized Atlas* | Atlas | Software Concepts | $5/$50
-310 | November 1985 | *Paradox* | Database | Ansa Software | $695
+310 | May 1986 | *Paradox* | Database | Ansa Software | $695
+311 | May 1986 | *An Apple a Day* | Medical Information Organizer | Avant Garde | $79.95
