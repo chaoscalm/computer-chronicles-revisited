@@ -42,3 +42,7 @@ paginate = 10
     icon = "linkedin"
     name = "LinkedIn"
     url = "https://www.linkedin.com/in/smoliva/"
+  [[params.social]]
+    icon = "youtube"
+    name = "YouTube"
+    url = "http://www.youtube.com/channel/UCWWNheOdoozkxL1fgBl4wRA"

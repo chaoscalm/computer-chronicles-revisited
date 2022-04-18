@@ -39,3 +39,4 @@ Episode | Date | Title | Description | Publisher | Price
 309 | October 1985 | *Concepts Computerized Atlas* | Atlas | Software Concepts | $5/$50
 310 | May 1986 | *Paradox* | Database | Ansa Software | $695
 311 | May 1986 | *An Apple a Day* | Medical Information Organizer | Avant Garde | $79.95
+312 | May 1986 | *Zoomworks* | Database Manager | Quickview | $125
