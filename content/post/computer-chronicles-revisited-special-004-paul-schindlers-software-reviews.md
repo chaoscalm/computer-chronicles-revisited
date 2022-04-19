@@ -40,3 +40,4 @@ Episode | Date | Title | Description | Publisher | Price
 310 | May 1986 | *Paradox* | Database | Ansa Software | $695
 311 | May 1986 | *An Apple a Day* | Medical Information Organizer | Avant Garde | $79.95
 312 | May 1986 | *Zoomworks* | Database Manager | Quickview | $125
+313 | November 1985 | *PC Planetarium* | Astronomy | Light Software | $52
