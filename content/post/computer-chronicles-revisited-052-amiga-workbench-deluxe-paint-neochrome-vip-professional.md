@@ -11,7 +11,7 @@ draft: False
 
 The term "home computer" was always a bit vague. Even today, I know there is some debate among tech historians over what machines actually fit that description. For example, was the Apple II a home computer despite the fact it cost substantially more than, say, a Commodore 64?
 
-In my own review of this period, I've come to look at the Home Computer Era as extending from roughly 1976 to 1985. It was in April 1976 that former *Chronicles* host [Jim Warren's first West Coast Computer Faire](https://smoliva.blog/post/computer-chronicles-revisited-special-002-jim-warren/) featured the debut of the Apple II, the Commodore PET, and the Tandy TRS-80, the so-called "trinity" of early home computers.
+In my own review of this period, I've come to look at the Home Computer Era as extending from roughly 1977 to 1985. It was in April 1977 that former *Chronicles* host [Jim Warren's first West Coast Computer Faire](https://smoliva.blog/post/computer-chronicles-revisited-special-002-jim-warren/) featured the debut of the Apple II, the Commodore PET, and the Tandy TRS-80, the so-called "trinity" of early home computers.
 
 That still doesn't explain what a home computer was, however. I would say that for the most part--the TRS-80 being a notable exception--the Home Computer Era featured 8-bit machines running some variant of the MOS Technology 6502 microprocessor. (The TRS-80 was based on the Zilog Z80, which was common in many CP/M machines, but less-so in home computers sold in North America.) 
 
@@ -165,7 +165,7 @@ This was not an isolated outburst. Syndicated tech columnist Dan Gutman reported
 >
 >As it turns out, instead of supplying the software companies with advance samples of the ST, Atari has charged them each $4,500 to get one. Many companies refused the offer, preferring to sit back and see how the computer sells. 
 
-(Incidentally, Tramiel also charged the 30 developers who displayed their programs at Atari's COMDEX booth a $1,000 fee, a cost-saving move designed to recoup the costs of attending the show.)
+(Incidentally, Tramiel also charged the 45 developers who displayed their programs at Atari's COMDEX booth a $1,000 fee, a cost-saving move designed to recoup the costs of attending the show.)
 
 Gutman said that many developers were skeptical the 520ST would even be released. Of course, it did come out. But there were some unfulfilled promises, such as the CD-ROM drive I discussed in my [last post on optical storage](https://smoliva.blog/post/computer-chronicles-revisited-051-groliers-knowledgedisc-infotrac-dec-uni-file-isidos/). Atari touted the prospect of a CD-ROM for the 520ST that never materialized due to cost concerns. This likely strained relations between Tramiel and Gary Kildall, as the latter had been counting on Atari's CD-ROM to help launch his new Activenture business. 
 
