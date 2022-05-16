@@ -41,5 +41,6 @@ Episode | Date | Title | Description | Publisher | Price
 311 | May 1986 | *An Apple a Day* | Medical Information Organizer | Avant Garde | $79.95
 312 | May 1986 | *Zoomworks* | Database Manager | Quickview | $125
 313 | November 1985 | *PC Planetarium* | Astronomy | Light Software | $52
-314 | Deceber 1985 | *Wizard of Wall Street* | Stock Market Simulator | Synapse Software | $45
-315 | Deceber 1985 | *Rocky's Boots* | Edutainment | The Learning Company | $50
+314 | December 1985 | *Wizard of Wall Street* | Stock Market Simulator | Synapse Software | $45
+315 | December 1985 | *Rocky's Boots* | Edutainment | The Learning Company | $50
+316 | December 1985 | *Golden Oldies* | Games Compilation | Software Country | $35
