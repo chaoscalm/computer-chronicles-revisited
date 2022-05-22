@@ -104,7 +104,7 @@ From what I could tell, the TeachMover was actively used in engineering classroo
 ## Notes from the Random Access File
 
 + Okay, the more I delve into *Chronicles* history, the more confusing the airdate situation becomes. In my initial posts, I relied on a list of airdates published at [TheTVDB.com](https://www.thetvdb.com/series/computer-chronicles/episodes/4464282). But these dates do not match the ones on the episodes published at the Internet Archive. And those dates also seem to be off. For instance, the Archive dates this episode as April 2, 1984. But the "Random Access" segment was clearly from December 1983. 
-+ Regardless of when it first aired, you can watch this episode at the [Internet Archive](https://www.thetvdb.com/series/computer-chronicles/episodes/4464282). 
++ Regardless of when it first aired, you can watch this episode at the [Internet Archive](https://archive.org/details/Robotics1984). 
 + The Radio Shack Armatron featured in the opening segment was the first *Chronicles*-demonstrated product that I actually owned as a child. It was way too easy to break that thing.
 + Speaking of Radio Shack, there must have been one located down the street from KCSM, as this was like the third or fourth episode so far that's opened with Stewart Cheifet demonstrating one of its products.
 + I'm not sure why Matt Guerrieri was a guest on this episode. He was introduced as the vice president of sales and marketing for Autobotics, yet he did not demonstrate any products or explain what his company did. I wonder if there was a product demo that was planned but scuttled just before taping.
