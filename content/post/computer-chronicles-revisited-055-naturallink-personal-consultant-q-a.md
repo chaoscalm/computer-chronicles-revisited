@@ -5,7 +5,7 @@ date: 2022-05-22
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Artificial-Intelligence"
+  - "Artificial Intelligence"
 draft: False
 ---
 

@@ -1,48 +1,90 @@
 baseURL = "https://smoliva.blog"
+languageCode = "en"
+DefaultContentLanguage = "en"
 title = "Computer Chronicles Revisited"
-theme = "m10c"
-paginate = 10
 
-[menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags/"
-    weight = 2
-  [[menu.main]]
-    identifier = "mastodon"
-    name = "Mastodon"
-    url = "https://mastodon.social/@chronrevisited"
-    weight = 3
-    
+# theme as hugo module
+#theme = "github.com/lxndrblz/anatole"
+# theme as git submodule
+theme = "anatole"
+
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
+# Enable Disqus
+#disqusShortname = ""
+
+# Google Analytics
+#googleAnalytics = "UA-123-45"
+
+# Syntax highlighting
+pygmentsUseClasses = true   
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
 [params]
-  author = "S.M. Oliva"
-  description = "A review of the PBS series that aired from 1983 to 2002. Written by S.M. Oliva."
-  avatar = "/img/avatar.jpg"
-  favicon = "/img/favicon.ico"
-  menu_item_separator = " - "
-  [[params.social]]
-    icon = "mail"
-    name = "Email"
-    url = "mailto:smo@smoliva.com"
-  [[params.social]]
-    icon = "rss"
-    name = "RSS"
-    url = "https://smoliva.blog/index.xml"
-  [[params.social]]
-    icon = "github"
-    name = "Github"
-    url = "https://github.com/smoliva/computer-chronicles-revisited"
-  [[params.social]]
-    icon = "linkedin"
-    name = "LinkedIn"
-    url = "https://www.linkedin.com/in/smoliva/"
-  [[params.social]]
-    icon = "youtube"
-    name = "YouTube"
-    url = "http://www.youtube.com/channel/UCWWNheOdoozkxL1fgBl4wRA"
+title = "Computer Chronicles Revisited"
+author = "S.M. Oliva"
+description = """
+A review of the PBS series that aired from 1983 to 2002. 
+Written by S.M. Oliva.
+"""
+profilePicture = "img/avatar.jpg"
+copyright = "2021 - 2022 S.M. Oliva, LLC" 
+
+[[params.socialIcons]]
+icon = "fas fa-rss"
+title = "RSS"
+url = "https://smoliva.blog/index.xml"
+
+[[params.socialIcons]]
+icon = "fab fa-patreon"
+title = "Patreon"
+url = "https://www.patreon.com/chronrevisited"
+
+[[params.socialIcons]]
+icon = "fab fa-mastodon"
+title = "Mastodon"
+url = "https://mastodon.social/@chronrevisited"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "LinkedIn"
+url = "https://www.linkedin.com/in/smoliva/"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/smoliva/computer-chronicles-revisited"
+
+[[params.socialIcons]]
+icon = "fab fa-youtube"
+title = "YouTube"
+url = "http://www.youtube.com/channel/UCWWNheOdoozkxL1fgBl4wRA"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope-open"
+title = "Email"
+url = "mailto:smo@smoliva.com"
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+        unsafe=true
+
+[taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"
+
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = true
+[[related.indices]]
+  name = 'keywords'
+  weight = 100
+[[related.indices]]
+  name = 'tags'
+  weight = 80
