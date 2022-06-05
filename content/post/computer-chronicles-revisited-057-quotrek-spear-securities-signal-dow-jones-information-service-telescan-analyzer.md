@@ -21,7 +21,7 @@ Wendy Woods presented two reports in this episode, both of which featured invest
 
 Woods said Eckrich gave up his traditional brokerage practice when he realized that he could invest for himself at home, freed from the burden of clients and commuting, in exchange for a few other responsibilities. (There's footage of Eckrich playing with his infant child as he worked on his Compaq Portable.)
 
-Woods noted that Eckrich had not cut all communications to his full-service broker but he did most of his research at the computer, which gathered data from online services, tracked and updated the stocks in his portfolio, and charted the performance of selected stocks over time. About the only thing other things on his desk were a newspaper and the QuoTrek, which provided real-time stock quotes. The online services associated with the QuoTrek cost about $250 per month. In exchange, Eckrich had a real-time link to the trading floor.
+Woods noted that Eckrich had not cut all communications to his full-service broker but he did most of his research at the computer, which gathered data from online services, tracked and updated the stocks in his portfolio, and charted the performance of selected stocks over time. About the only other things on his desk were a newspaper and the QuoTrek, which provided real-time stock quotes. The online services associated with the QuoTrek cost about $250 per month. In exchange, Eckrich had a real-time link to the trading floor.
 
 Eckrich told Woods that he did have a few regrets. When you worked alone from home and didn't have co-workers around, he said, some of the feedback was missing. That was why he still had a standard broker. 
 
@@ -31,7 +31,7 @@ Charles Spear and John Frierson joined Cheifet and Kildall in the studio. Spear 
 
 Kildall opened by asking Spear how computers were now helping small investors. Spear said the computer was the "ATM machine for the brokerage industry," because it put in the hands of consumers a wealth of information that was never there before. And it gave such investors access to the market so they could do automated trades. 
 
-Spear then showed his company's online service, Spear Securities. He explained you could use the software to access quotes, look at your portfolio (updated to the second), examine tax records, and make trades. Cheifet asked for a specific demonstration, say, to decide between investing in Apple or Lotus. Spear said his system included a database of about 3,300 companies, and users cuold compare about 50 different items in a variety of ways (e.g., company-by-company, industry groupings, et al.)
+Spear then showed his company's online service, Spear Securities. He explained you could use the software to access quotes, look at your portfolio (updated to the second), examine tax records, and make trades. Cheifet asked for a specific demonstration, say, to decide between investing in Apple or Lotus. Spear said his system included a database of about 3,300 companies, and users could compare about 50 different items in a variety of ways (e.g., company-by-company, industry groupings, et al.)
 
 Spear then provided a live demo. The Spear Securities software worked with The Source online service. The database was provided by Media General's *Stockvue* service. This enabled the user to see a stock analysis of Apple and Lotus. For example, you could see how the two stocks performed relative to one another over the past week.
 
