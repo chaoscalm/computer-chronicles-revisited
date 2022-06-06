@@ -146,6 +146,18 @@ Dreyfus first gained notoriety at MIT as a critic of the potential impact of com
 
 Computers eventually learned how to beat humans at chess, of course, but Dreyfus remained steadfast in his views that machines were incapable of learning or applying "common sense." A March 1985 article from the *Austin American-Statesman* noted that Dreyfus had been dubbed "the black knight" of AI by a leading science magazine for his stance. But Dreyfus told the paper that he didn't think so-called expert systems could ever "be programmed to answer the kind of question that a four-year-old child can."
 
+Dreyfus was such a well-known AI critic at the time that it apparently caused something of a problem for Stewart Cheifet and the *Chronicles* production team. In a 1986 paper co-authored with his brother, Stuart Dreyfus, and [published in the *MIT Technology Review*](https://archive.org/details/MIT-Technology-Review-1986-01/page/n113/), Dreyfus revealed that he'd been scheduled as a guest for the [March 1984 *Chronicles* episode on artificial intelligence](https://smoliva.blog/post/computer-chronicles-revisited-020-expert-ease-kee-system/) that also featured Stanford University professor John McCarthy--the man credited with inventing the term "artificial intelligence"--and IntelliCorp's Thomas Kehler.  Naturally, Dreyfus said he was there to provide a "balanced perspective" on the promise of AI. But things didn't go according to plan:
+
+>After much negotiating, an evening was finally agreed upon for taping the discussion.
+>
+>That evening the producer and technicians were standing by at the studio and [Dreyfus] had already arrived in San Mateo when word came that McCarthy would not show up because Hubert was to be on the program. A fourth participant, expert-systems research Michael Genesereth of Stanford University, also backed out.
+>
+>All of us were stunned. Representatives from public TV's NOVA science series and CBS news had already interviewed [Dreyfus] about AI, and he had recently appeared on a panel ... [with] McCarthy himself at a meeting sponsored by the New York Academy of Sciences. Why not on KCSM? It seems the "experts" wanted to give the impression that they represented a successful science with marketable products and didn't want to answer any potentially embarrassing questions.
+>
+>The shock tactic worked. The station's executive producer, Stewart Cheifet, rescheduled the taping with McCarthy as well as the demo from IntelliCorp, and he decided to drop the discussion with [Dreyfus]. The viewers were left with the impression that AI is a solid, ongoing science which, like physics, is hard at work solving its quote manageable current problems. The public's chance to hear both sides was lost and the myth of steady progress in AI was maintained.
+
+Obviously, Dreyfus didn't hold a grudge as he appeared in this episode, which Cheifet no doubt offered as a makeup for what happened with McCarthy and Kehler. I'd also point out that the first AI episode had Herb Lechner, and not Gary Kildall, as the co-host. I wonder what Gary would have done if he had been present for McCarthy and Kehler's unprofessional no-show.
+
 ### Hendrix's Early Symantec Struggles Created Base for Future Antivirus Giant
 
 Stewart Cheifet introduced Gary Hendrix as a vice president with Symantec. Technically, Hendrix was the *founder* of Symantec. Although, as is often the case when researching the history of technology companies, the complete story is far more complicated.
