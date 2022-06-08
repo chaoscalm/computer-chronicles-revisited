@@ -13,4 +13,5 @@ Here are the currently available ebooks:
 Volume | Season(s) | Published | Download
 --- | --- | --- | --- 
 1 | 1983 - 1984 | 6 June 2022 | [EPUB](https://smoliva.blog/epub/computer-chronicles-revisited-vol-1.epub)
+2 | 1984 - 1985 | 7 June 2022 | [EPUB](https://smoliva.blog/epub/computer-chronicles-revisited-vol-2.epub)
 
