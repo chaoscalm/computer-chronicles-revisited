@@ -45,3 +45,4 @@ Episode | Date | Title | Description | Publisher | Price
 315 | December 1985 | *Rocky's Boots* | Edutainment | The Learning Company | $50
 316 | December 1985 | *Golden Oldies* | Games Compilation | Software Country | $35
 317 | January 1986 | *PFS:Access* | Communications Package | Software Publishing Corp. | $95
+320 | February 1986 | *Volkswriter 3.0* | Word Processor | Lifetree Software | $300
