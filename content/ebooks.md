@@ -6,7 +6,7 @@ sidebar: false
 menu: main
 ---
 
-I plan to release my reviews of *Computer Chronicles* as standalone ebooks. These are epub files without any DRM or copy protection and are distributed under the same [Createive Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/) as the blog itself. This means you are free to share and adapt these ebooks for any noncommercial purpose, provided you give appropriate credit.
+I plan to release my reviews of *Computer Chronicles* as standalone ebooks. These are epub files without any DRM or copy protection and are distributed under the same [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/) as the blog itself. This means you are free to share and adapt these ebooks for any noncommercial purpose, provided you give appropriate credit.
 
 Here are the currently available ebooks:
 
