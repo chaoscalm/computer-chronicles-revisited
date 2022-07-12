@@ -47,3 +47,4 @@ Episode | Date | Title | Description | Publisher | Price
 317 | January 1986 | *PFS:Access* | Communications Package | Software Publishing Corp. | $95
 320 | February 1986 | *Volkswriter 3.0* | Word Processor | Lifetree Software | $300
 323 | February 1986 | *411* | Indexing Tool | Select Information Systems | $149
+401 | September 1986 | *Word Finder* | Thesaurus | Writing Consultants, Inc. | $80
