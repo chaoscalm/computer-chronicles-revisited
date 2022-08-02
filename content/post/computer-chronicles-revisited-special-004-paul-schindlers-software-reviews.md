@@ -49,3 +49,4 @@ Episode | Date | Title | Description | Publisher | Price
 323 | February 1986 | *411* | Indexing Tool | Select Information Systems | $149
 401 | September 1986 | *Word Finder* | Thesaurus | Writing Consultants, Inc. | $80
 402 | Septemebr 1986 | *Q-DOS* | File Manager | Gazelle Systems | $30
+403 | September 1986 | *Color Magic* | EGA Palette Selector | Lifetree Software | $40
