@@ -50,3 +50,4 @@ Episode | Date | Title | Description | Publisher | Price
 401 | September 1986 | *Word Finder* | Thesaurus | Writing Consultants, Inc. | $80
 402 | Septemebr 1986 | *Q-DOS* | File Manager | Gazelle Systems | $30
 403 | September 1986 | *Color Magic* | EGA Palette Selector | Lifetree Software | $40
+404 | October 1986 | *Tornado Notes* | Note-taking Manager | Micro Logic | $50
