@@ -52,3 +52,4 @@ Episode | Date | Title | Description | Publisher | Price
 403 | September 1986 | *Color Magic* | EGA Palette Selector | Lifetree Software | $40
 404 | October 1986 | *Tornado Notes* | Note-taking Manager | Micro Logic | $50
 405 | October 1986 | *ServTech* | PC Repair Guide | Rylos Technologies | $50
+406 | October 1986 | *Mean 18* | Golf Game | Accolade | $45

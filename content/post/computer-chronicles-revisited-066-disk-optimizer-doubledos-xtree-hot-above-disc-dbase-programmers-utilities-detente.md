@@ -101,7 +101,7 @@ Stewart Cheifet presented this week's "Random Access," which was recorded in Oct
 + A hacker known as "Pink Floyd" was suspected of breaking into dozens of university UNIX computer systems including Stanford and MIT.
 + Author [Dan Gutman](https://dangutman.com/about-dan/) recently published a book of 400 "off-beat" applications--Stewart's description, not mine--for personal computers, including a program written by a Lebanese man for Muslim businessmen who traveled a lot. Cheifet said the program automatically calculated the times for required Muslim prayer and the direction of Mecca.
 
-## XTree's Legacy Lives on Today in Clones
+## XTree Ultimately Swallowed Up by Symantec-Norton Monopoly
 
 Dale Sinor co-founded Executive Systems, Inc. (ESI), in October 1978, with Henry Hernandez and R. Thomas Smith, Jr. The company initially focused on consulting and contract programming. In 1983, ESI hired a programmer named Jeffrey C. Johnson, who would go on to create *XTree*.
 
@@ -116,7 +116,6 @@ Johnson said that on March 1, 1985, ESI management decided to self-publish *XTre
 *XTree* proved an instant success and led to ESI developing several revised and expanded versions--notably *XTree Gold* and *XTree for Windows*--which were later published under the "XTree Company" label. By the early 1990s, however, the consolidation of the computer software market managed to swallow up ESI as well. In October 1993, Central Point Software acquired ESI by merging it with a subsidiary in a stock swap. Six months later, in April 1994, [Symantec Corporation acquired Central Point](http://www.verycomputer.com/12_d3bc3b071204c711_1.htm) in yet another stock swap valued at $60 million.
 
 Symantec was already a budding monopolist in the PC utilities market, as I discussed in an [earlier post](http://www.verycomputer.com/12_d3bc3b071204c711_1.htm). It had acquired Peter Norton Computing, the Godfather of DOS utility companies, back in 1989. And as the [*XTree Fan Page*](https://www.xtreefanpage.org/x20hist.htm) explained in its own history, *XTree* development effectively ended in September 1994 with the release of *XTree Gold for Windows 4.0*. The following year, Symantec released *Norton Navigator File Manager*, which incorporated elements of *XTree Gold* and stayed on the market until 1998. Symantec formally dissolved Executive Systems in April 1997.
-
 
 ## Above Disc Maker Fizzled Out Following CEO's Failed Soviet Perfume Scheme
 
