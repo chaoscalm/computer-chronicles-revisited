@@ -55,3 +55,5 @@ Episode | Date | Title | Description | Publisher | Price
 406 | October 1986 | *Mean 18* | Golf Game | Accolade | $45
 407 | October 1986 | *Get!* | Electronic Mail | Signet Technologies | $90
 408 | October 1986 | *The Idea Generator* | Decision Support System | Experience in Software | $200
+409 | November 1986 | *Scriptor* | Television Script Utility | Screenplay Systems, Inc. | $300
+410 | November 1986 | *IQ Test* | IQ Test | Rational Designs | $40
