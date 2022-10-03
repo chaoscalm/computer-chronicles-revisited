@@ -9,7 +9,7 @@ tags:
 draft: False
 ---
 
-Operating systems like the original MS-DOS were not capable of multitasking, i.e., running more than one program at a time. But you could fake multitasking by taking advantage of the "terminate and stay resident" (TSR) system call in DOS. Essentially, a program that used this call was not cleared from RAM when a new program loaded and remained available to the system until the next reboot.
+Operating systems like the original MS-DOS were not capable of multitasking--they could only run one program at a time. But you could fake multitasking by taking advantage of the "terminate and stay resident" (TSR) system call in DOS. Essentially, a program that used this call was not cleared from RAM when a new program loaded and remained available to the system until the next reboot.
 
 Such "RAM resident software" was the subject of this [next *Computer Chronicles* episode from November 1986](https://www.youtube.com/watch?v=xV2rxImyGYE). Stewart Cheifet opened the program by telling Gary Kildall that when Borland first released *Sidekick*, it was a big deal that you could pop-up a simple calculator on your screen using a RAM resident program. Cheifet then showed a physical calculator--an HP-12C financial calculator--and noted there was now a computer version of the device, which was also available as a TSR program.
 
