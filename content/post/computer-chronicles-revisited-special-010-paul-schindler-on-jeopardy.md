@@ -23,6 +23,8 @@ Sadly, we don't have any recorded footage of Schindler's game. But thanks to the
 
 The defending champion that day was David Traini, a "teacher from Medford Lakes, New Jersey, whose 2-day cash winnings total $26,601," according to the introduction presumably given by legendary *Jeopardy!* announcer Johnny Gilbert. The other contestants were Ian Barondess, a salesperson from Great Neck, New York, and of course Schindler, "a journalist originally from Portland, Oregon."
 
+![](/img/cc-jeapoardy.png)
+
 The *Jeopardy!* round began with six categories: Romania, Musicals, Milk, Ice Hockey, The Bible, and "Glad" Tidings. This was the old *Jeopardy!* rules, so the value of the questions ranged from $100 to $500 in this round. Traini, as the defending champion, selected the first clue and started at the top left of the board, taking Romania for $100. Schindler then gave the first correct response of the game:
 
 > A: Legend holds that a shepherd named Bucur founded this capital city.
@@ -131,12 +133,12 @@ Schindler later wrote that his response "was the first one that came to mind." T
 
 As it turned out, neither of the other contestants had the correct response either. Traini and Barondess both replied, "What is Ford?" Again, a good guess. But the correct response was, "What is General Motors?" Schindler said later that he "briefly thought" of GM but decided to "go with my gut."
 
-Traini wagered $3,300, so his incorrect response dropped him down to $5,400, which was still enough for the win and a three-day total of $32,001. Barondess didn't bet everything, so he finished in second place and won a trip to Honolulu. Schindler received a new Maytag washer and dryer for his efforts.
+Traini wagered $3,300, so his incorrect response dropped him down to $5,400, which was still enough for the win and a three-day total of $32,001. Barondess didn't bet everything, so he finished in second place and won a trip to Honolulu. Schindler received a new Maytag washer and dryer for his third-place finish.
 
-Schindler later wrote the whole experience was "the fastest 30 minutes of my life." He said the aftermath was "deflating" and that it only took about 20 minutes from the end of taping before he was back out on the streets of Los Angeles. He said he immediately went back to work to take his mind off things, and within a couple of days he was "normal again."
+Schindler later wrote that the whole experience was "the fastest 30 minutes of my life." He said the aftermath was "deflating" and that it only took about 20 minutes from the end of taping before he was back out on the streets of Los Angeles. He said he immediately went back to work to take his mind off things, and within a couple of days he was "normal again."
 
 ## Notes from the Random Access File
 
 + *Jeopardy!* wasn't the end of Schindler's game show career. He later won $3,000 on an episode of *Scrabble*, a television version of the popular board game that aired in the 1990s. Schindler also competed on the Comedy Central game show *Win Ben Stein's Money*, where he said he took home a Sony Walkman after being eliminated in the second round.
 + Dave Traini ended up winning the maximum of five games allowed under the original *Jeopardy!* format. He'd earn a total of $54,502 for the week and later competed in the 1987 *Jeopardy! Tournament of Champions*,  the 1990 *Super Jeopardy!* competition, and the 2005 *Jeopardy! Ultimate Tournament of Champions*, winning an additional $66,000 altogether.
-+ My favorite clue of the game was the $200 answer for Actors & Roles: "This macadamia nut rancher said, 'I don't know where I stop & Gomer begins.'" Traini correctly replied, "Who is Jim Nabors?" Alex Trebek then helpfully added that Nabors' macadamia ranch was located in Hawaii. 
++ My favorite clue of the game was the $200 answer for Actors & Roles: "This macadamia nut rancher said, 'I don't know where I stop & Gomer begins.'" Traini correctly replied, "Who is Jim Nabors?" Alex Trebek then helpfully added that Nabors' macadamia ranch was located in Hawaii. Who knew that you could ranch nuts?
