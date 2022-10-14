@@ -9,21 +9,21 @@ tags:
 draft: False
 ---
 
-Thirty-six years ago today, episode 482 of *Jeopardy!* hosted by Alex Trebek aired in syndication. One of the contestants was someone familiar to readers of this blog: Paul Schindler, the longtime software reviewer and frequent panelist on *Computer Chronicles*. As it turned out Schindler--who recently turned 70--was something of a game show aficionado back in the day.
+Thirty-six years ago today, episode 482 of *Jeopardy!* hosted by Alex Trebek aired in syndication. One of the contestants was someone familiar to readers of this blog: Paul Schindler, the longtime software reviewer and frequent panelist on *Computer Chronicles*. As it turned out Schindler--who recently celebrated his 70th birthday--was something of a game show aficionado back in the day.
 
-According to [Schindler's own account](http://www.schindler.org/jepwheel.htm#how), he first tried out for the original *Jeopardy!* hosted by Art Fleming between 1964 and 1975. As a freshman at MIT in Boston in the early 1970s, Schindler took the train down to New York, where the program taped at the time. He ended up taking a test but never received a callback from the producers. (Schindler said he thought the producers might have been scared off by his long hair and beard.)
+According to [Schindler's own account](http://www.schindler.org/jepwheel.htm#how), he first tried out for the original *Jeopardy!* (1964 - 1975) hosted by Art Fleming. While a freshman at MIT in the early 1970s, Schindler took the train from Boston to New York, where *Jeopardy!* *taped at the time, to take the test. But he never received a callback, which Scindler thought might have been due to his long hair and beard scaring off the producers at the time.
 
-When Schindler started working as a San Francisco-based tech journalist in the 1980s, he regularly traveled to Los Angeles about once a month for work, which prompted him to try out for game shows during his downtime before returning home. He made multiple failed attempts to get on *Tic-Tac-Dough* before managing to secure his first appearance on a 1982 episode of *Wheel of Fortune*, where he won $2,800.
+Later, When Schindler worked as a San Francisco-based tech journalist in the 1980s, he regularly traveled to Los Angeles, where the Alex Trebek *Jeopardy!* taped. Schindler recalled that he visited. about once a month, and he would try out for game shows during his downtime before returning home. He made multiple failed attempts to get on the CBS game show [*The New Tic-Tac-Dough*](https://en.wikipedia.org/wiki/Tic-Tac-Dough) before managing to secure his first appearance on a 1982 episode of *Wheel of Fortune*, where he won $2,850 in cash and prizes (including a new computer!).
 
-In June 1986, Schindler said he made the final player lists for *The $25,000 Pyramid* and *Jeopardy!* and ultimately taped his appearance for the latter on August 20 of that year. It was apparently quite a busy week for Schindler. He'd been attending a conference on Long Island and flew directly from New York to Los Angeles to make a noon taping.
+In June 1986, Schindler made the final player lists for *The $25,000 Pyramid* and *Jeopardy!* and ultimately taped his appearance for the latter on August 20 of that year. It was apparently quite a busy week for Schindler. He'd been attending a conference on Long Island and flew directly from New York to Los Angeles to make a noon taping.
 
-## Headline
+## "I Was There to Match My Intellect on National TV..."
 
-Sadly, we don't have any recorded footage of Schindler's game. But thanks to the website *J! Archive*, we can reconstruct what happened question-by-question--or answer-by-answer, I suppose. (Special thanks to podcaster and tech journalist Glenn Fleishman, himself a two-time *Jeopardy!* champion, who mentioned this amazing website on an episode of *The Incomparable* podcast.) 
+It's notoriously difficult to find old *Jeopardy!* footage online. But thanks to the website [*J! Archive*](https://j-archive.com/showgame.php?game_id=3501), we can reconstruct what happened question-by-question--or answer-by-answer, I suppose.
 
-The defending champion that day was David Traini, a "teacher from Medford Lakes, New Jersey, whose 2-day cash winnings total $26,601," according to the introduction presumably given by legendary *Jeopardy!* announcer Johnny Gilbert. The other contestants were Ian Barondess, a salesperson from Great Neck, New York, and of course Schindler, "a journalist originally from Portland, Oregon."
+The defending champion that day was David Traini, a "teacher from Medford Lakes, New Jersey, whose 2-day cash winnings total $26,601," according to the introduction given by legendary *Jeopardy!* announcer Johnny Gilbert. The other contestants were Ian Barondess, a salesperson from Great Neck, New York, and of course Schindler, "a journalist originally from Portland, Oregon."
 
-![](/img/cc-jeapoardy.png)
+![Paul Schindler, wearing a gray three-piece suit, standing behind a contestant's podium on the set of "Jeopardy!"](/img/cc-schindler-jeopardy.png)
 
 The *Jeopardy!* round began with six categories: Romania, Musicals, Milk, Ice Hockey, The Bible, and "Glad" Tidings. This was the old *Jeopardy!* rules, so the value of the questions ranged from $100 to $500 in this round. Traini, as the defending champion, selected the first clue and started at the top left of the board, taking Romania for $100. Schindler then gave the first correct response of the game:
 
@@ -63,7 +63,7 @@ Schindler's incorrect response was, "What are mother and daughter?" The correct 
 
 Thus, Schindler ended the *Jeopardy!* round with $700, putting him in second place over Barondess (at $300) but well behind the defending champion Traini (at $2,300).
 
-## Headline
+## "Cause I Got the Daily Double Now..."
 
 The six categories for the Double Jeopardy! round were American Revolution, Homophones, Actors & Roles, Notorious, Ecology, and Famous Lasts. Schindler stumbled out of the gate, giving an incorrect response to the second answer taken, the $400 clue for Actors & Roles:
 
@@ -83,7 +83,7 @@ He also took the $600 clue:
 >
 > Q. What is peat/Pete?
 
-After another extended period of inactivity, Schindler made his move in the American Revolution category. Again, this likely played to his strengths and was somewhat prescient. After Schindler left the tech journalism field in the 1990s, he spent many years as a middle school history teacher. 
+After another extended period of inactivity, Schindler made his move in the American Revolution category. Again, this likely played to his strengths and was somewhat prescient. After Schindler left the tech journalism field in the 1990s, he spent many years as a middle school history teacher.
 
 He took the $800 clue:
 
@@ -93,7 +93,7 @@ He took the $800 clue:
 
 Then Schindler hit the jackpot--or at least the Daily Double, which was the $1,000 clue. At this point Schindler had $1,900 and he chose to bet $1,800, which paid off when he gave the correct response:
 
-> A. In celebrated speech, Patrick Henry reminded George III that Caesar and Charles I "had" these 2 men.
+> A. In a celebrated speech, Patrick Henry reminded George III that Caesar and Charles I "had" these 2 men.
 >
 > Q. Who are Brutus & Cromwell?
 
@@ -109,11 +109,11 @@ Then there was the $200 clue in Famous Lasts:
 >
 > Q. Who is Elvis Presley?
 
-With one minute left in the round, Schindler next took the $400 clue in Famous Lasts:
+With one minute left in the round, Schindler took the $400 clue in Famous Lasts:
 
 > A. The night before he passed away in 1566, he made his last prediction, his death.
 >
-> Q. Who is Nostradamus? 
+> Q. Who is Nostradamus?
 
 His final correct response was for the $1,000 clue in Ecology:
 
@@ -121,15 +121,15 @@ His final correct response was for the $1,000 clue in Ecology:
 >
 > Q. Who is Barry Commoner?
 
-When Trebek called time--with four clues still left on the board--Schindler was in second place with $5,900. Traini had led for the entire round, ending up with $8,700. Barondess was well behind both at $2,300.
+When Trebek called time--with four clues still left on the board--Schindler was in second place with $5,900. Traini led for the entire round, ending up with $8,700. Barondess was well behind both at $2,300.
 
-## Headline
+## "I Sure Hope I Do Better Next Weekend on 'The Price is Right'..."
 
 Schindler decided to bet his entire $5,900 on the Final Jeopardy! round. The category was Business & Industry, which you think would be suited to his knowledge base. The clue was:
 
 > In 1985, this Michigan-based company was the nation's largest single exporter.
 
-Schindler later wrote that his response "was the first one that came to mind." That was, "What is Dow Chemical?" Dow was a Michigan-based company, but that was not the correct response. Schindler thus ended the game with zero dollars.
+Schindler later wrote that his response "was the first one that came to mind." That was, "What is Dow Chemical?" Dow *was* a Michigan-based company, but that was not the correct response. Schindler thus ended the game with zero dollars.
 
 As it turned out, neither of the other contestants had the correct response either. Traini and Barondess both replied, "What is Ford?" Again, a good guess. But the correct response was, "What is General Motors?" Schindler said later that he "briefly thought" of GM but decided to "go with my gut."
 
@@ -139,6 +139,7 @@ Schindler later wrote that the whole experience was "the fastest 30 minutes of m
 
 ## Notes from the Random Access File
 
-+ *Jeopardy!* wasn't the end of Schindler's game show career. He later won $3,000 on an episode of *Scrabble*, a television version of the popular board game that aired in the 1990s. Schindler also competed on the Comedy Central game show *Win Ben Stein's Money*, where he said he took home a Sony Walkman after being eliminated in the second round.
-+ Dave Traini ended up winning the maximum of five games allowed under the original *Jeopardy!* format. He'd earn a total of $54,502 for the week and later competed in the 1987 *Jeopardy! Tournament of Champions*,  the 1990 *Super Jeopardy!* competition, and the 2005 *Jeopardy! Ultimate Tournament of Champions*, winning an additional $66,000 altogether.
-+ My favorite clue of the game was the $200 answer for Actors & Roles: "This macadamia nut rancher said, 'I don't know where I stop & Gomer begins.'" Traini correctly replied, "Who is Jim Nabors?" Alex Trebek then helpfully added that Nabors' macadamia ranch was located in Hawaii. Who knew that you could ranch nuts?
++ *Jeopardy!* wasn't the end of Schindler's game show career. He later won $3,000 on [*Scrabble*](https://en.wikipedia.org/wiki/Scrabble_(game_show)), a television version of the popular board game that aired in the 1990s. Schindler also competed on the Comedy Central game show *Win Ben Stein's Money*, where he said he took home a Sony Walkman after being eliminated in the second round.
++ Dave Traini ended up winning the maximum of five games allowed under the original *Jeopardy!* format. He'd earn a total of $54,502 for the week and later competed in the 1987 *Jeopardy! Tournament of Champions*, the 1990 *Super Jeopardy!* competition, and the 2005 *Jeopardy! Ultimate Tournament of Champions*, winning an additional $66,000 altogether.
++ Special thanks to podcaster and tech journalist [Glenn Fleishman](https://glennf.com/), himself a two-time *Jeopardy!* champion, who mentioned the *J! Archive* during an episode of [*The Incomparable*](https://www.theincomparable.com/theincomparable/112/) podcast, which is how I learned about this amazing website.
++ My favorite clue of Schindler's *Jeopardy!* game was the $200 answer for Actors & Roles: "This macadamia nut rancher said, 'I don't know where I stop & Gomer begins.'" Traini correctly replied, "Who is Jim Nabors?" Alex Trebek then helpfully added that Nabors' macadamia ranch was located in Hawaii. Who knew that you could ranch nuts?
