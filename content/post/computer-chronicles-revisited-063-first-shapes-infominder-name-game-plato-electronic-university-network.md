@@ -9,7 +9,7 @@ tags:
 draft: False
 ---
 
-The second part of *Computer Chronicles*' fourth-season look at educational software was something of a grab bag. The [September 1986 episode](https://www.youtube.com/watch?v=2buTEbaNcbY) looked at everything from software targeting preschoolers to early efforts at offering college classes online. There was even a return of our old friend the LaserDisc!
+The second part of *Computer Chronicles*' fourth-season look at educational software was something of a grab bag. The September 1986 episode looked at everything from software targeting preschoolers to early efforts at offering college classes online. There was even a return of our old friend the LaserDisc!
 
 Stewart Cheifet opened the program by showing guest co-host George Morrow the VTech Learning-Window Teaching Machine, a "toy computer for kids" that parents could purchase for under $50. It taught kids math and spelling using a voice synthesizer. Cheifet noted that computers had been blamed for putting people out of jobs. Did Morrow think computers could be used effectively to train people for new jobs? Morrow said that he spent a lot of time with user groups and the professionals were using computers now as a transitional tool. The challenge for the industry was putting some "entertainment" into these products to help people make that transition.
 

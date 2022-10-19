@@ -9,7 +9,7 @@ tags:
 draft: False
 ---
 
-Few industries were transformed more by the rise in computer technology than the media. [This next *Computer Chronicles* episode from October 1985](https://www.youtube.com/watch?v=_9qhbFm3vak) looked at the interaction of computers and the media, with a focus on practical applications in the television, radio, and newspaper industries. The final segment also returned to a favorite topic of the show, computer graphics, where the work of one of the guests would help lead to the creation of a whole new form of media--the computer-animated film.
+Few industries were transformed more by the rise in computer technology than the media. This next *Computer Chronicles* episode from October 1985 looked at the interaction of computers and the media, with a focus on practical applications in the television, radio, and newspaper industries. The final segment also returned to a favorite topic of the show, computer graphics, where the work of one of the guests would help lead to the creation of a whole new form of media--the computer-animated film.
 
 ## Was "Electronic Delivery" the Future of Newspapers?
 

@@ -23,7 +23,7 @@ Two things basically happened. First, the video game console market reconstitute
 
 The 520ST and Amiga--also known as the Amiga 1000--were 16-bit computers based on the Motorola 68000 CPU, which also powered the Apple Macintosh. They represented a clean break with the Home Computer Era. For one thing, these were not machines you bought to learn how to program in BASIC. And while the 520ST and Amiga are remembered today largely as gaming machines, they also introduced next-generation improvements in graphics and sound technology, which signaled the direction that the bigger players in the industry would move towards during the latter part of the 1980s.
 
-[This next *Computer Chronicles* episode from early December 1985](https://www.youtube.com/watch?v=kX5N8lWpqLM) focused on the similarities and contrasts between these new 16-bit machines. Obviously, Commodore and the new Atari were linked by Jack Tramiel. But these companies that were once at the forefront of the home computer and video game console markets, respectively, now found themselves competing to catch up in a larger personal computer industry dominated by the IBM PC and Macintosh platforms. 
+This next *Computer Chronicles* episode from early December 1985 focused on the similarities and contrasts between these new 16-bit machines. Obviously, Commodore and the new Atari were linked by Jack Tramiel. But these companies that were once at the forefront of the home computer and video game console markets, respectively, now found themselves competing to catch up in a larger personal computer industry dominated by the IBM PC and Macintosh platforms. 
 
 ## Would Software Makers Step Up to the ST and Amiga?
 

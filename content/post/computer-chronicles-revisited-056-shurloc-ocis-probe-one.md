@@ -9,7 +9,7 @@ tags:
 draft: False
 ---
 
-During this third season of *Chronicles*, there have already been several episodes dedicated to the impact of computers on specific vocations, including the media, politics, and medicine. (There was also an episode on the legal profession, which is among those still missing from the Internet Archive.) This [next episode from January 1986](https://www.youtube.com/watch?v=dYlYZ8G_wdM) continues the trend, with a show discussing computers in law enforcement.
+During this third season of *Chronicles*, there have already been several episodes dedicated to the impact of computers on specific vocations, including the media, politics, and medicine. (There was also an episode on the legal profession, which is among those still missing from the Internet Archive.) This next episode from January 1986 continues the trend, with a show discussing computers in law enforcement.
 
 ## Giving Law Enforcement Rapid Access to Information
 

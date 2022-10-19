@@ -9,7 +9,7 @@ tags:
 draft: False
 ---
 
-Many *Computer Chronicles* episodes to this point have discussed, or at least mentioned, the influence of politics on the tech industry. But [this next episode from November 1985](https://www.youtube.com/watch?v=s3ugxpjCk_g) looks at how the computers were influencing politics. And our hosts were not necessarily encouraged by what they saw. 
+Many *Computer Chronicles* episodes to this point have discussed, or at least mentioned, the influence of politics on the tech industry. But this next episode from November 1985 looks at how the computers were influencing politics. And our hosts were not necessarily encouraged by what they saw. 
 
 ## Would the "Information Age" Lead to a "1984-ish" Scenario?
 

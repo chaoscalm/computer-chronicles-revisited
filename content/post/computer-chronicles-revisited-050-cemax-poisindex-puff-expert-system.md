@@ -9,7 +9,7 @@ tags:
 draft: False
 ---
 
-This [episode of *Computer Chronicles* from November 1985](https://www.youtube.com/watch?v=uTK21NhN8HQ) returned to a favorite topic of the show: artificial intelligence and expert systems. Here, the focus was on the practical applications of such technology to the field of medicine. Essentially, how could computers be used to improve the delivery of health care? 
+This episode of *Computer Chronicles* from November 1985 returned to a favorite topic of the show: artificial intelligence and expert systems. Here, the focus was on the practical applications of such technology to the field of medicine. Essentially, how could computers be used to improve the delivery of health care? 
 
 ## From Artificial Hearts to a "Doctor in a Box"?
 

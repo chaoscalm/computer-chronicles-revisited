@@ -13,7 +13,7 @@ Gary Kildall was not just the co-host of *Computer Chronicles*. He also co-found
 
 But the third time was a charm, right? At least that was Kildall's hope when he started Activenture to develop CD-ROM technology. The CD-ROM had also been [featured on *Chronicles* before](https://smoliva.blog/post/computer-chronicles-revisited-026-sony-cd-rom-pioneer-px-7-halcyon/), when a Sony representative suggested we would see compact discs in computers by the end of 1985. Kildall certainly believed that would happen. Indeed, at the 1985 Summer Consumer Electronics Show, Activenture demonstrated its first CD-ROM product--an electronic version of the Grolier's Encyclopedia--running off a CD player connected to an Atari 520 ST. 
 
-Now, I'll talk more about Atari's role in all this after the episode recap, but suffice to say Jack Tramiel's company never actually shipped a computer with a CD-ROM drive to consumers in 1985. But the CD-ROM encyclopedia was certainly real and it played a featured role in [this next *Chronicles* episode that originally aired in November 1985](https://www.youtube.com/watch?v=5TcsOgy9weg).
+Now, I'll talk more about Atari's role in all this after the episode recap, but suffice to say Jack Tramiel's company never actually shipped a computer with a CD-ROM drive to consumers in 1985. But the CD-ROM encyclopedia was certainly real and it played a featured role in this next *Chronicles* episode that originally aired in November 1985.
 
 ## Small Step or Giant Leap?
 

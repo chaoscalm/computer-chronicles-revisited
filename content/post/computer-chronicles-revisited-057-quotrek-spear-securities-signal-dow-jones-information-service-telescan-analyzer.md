@@ -9,7 +9,7 @@ tags:
 draft: False
 ---
 
-The major theme for this season of *Computer Chronicles* has been, "Why would anyone actually buy a personal computer?" This [next episode from February 1986](https://www.youtube.com/watch?v=sM62coZbv1Q) looks at one reason--managing your investments. After all, if you have enough money to invest in the stock market, you probably had the disposable income to purchase expensive hardware and software to keep an eye on those investments.
+The major theme for this season of *Computer Chronicles* has been, "Why would anyone actually buy a personal computer?" This next episode from February 1986 looks at one reason--managing your investments. After all, if you have enough money to invest in the stock market, you probably had the disposable income to purchase expensive hardware and software to keep an eye on those investments.
 
 ## Would You Trust a Computer with Your Money?
 

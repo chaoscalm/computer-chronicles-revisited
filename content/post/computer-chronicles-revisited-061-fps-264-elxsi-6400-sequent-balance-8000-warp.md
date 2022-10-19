@@ -9,7 +9,7 @@ tags:
 draft: False
 ---
 
-Since the mid-2000s, just about every personal computer made contains a multi-core and/or multi-threaded CPU. These are both practical applications of parallel processing technology, which was still in its infancy back in March 1986 when [this next *Computer Chronicles* episode](https://www.youtube.com/watch?v=G_2yGCdLLCg) aired. At this point, parallel processing was largely the domain of expensive "super" minicomputers that were marketed as less-expensive alternatives--relatively speaking--to traditional mainframes.
+Since the mid-2000s, just about every personal computer made contains a multi-core and/or multi-threaded CPU. These are both practical applications of parallel processing technology, which was still in its infancy back in March 1986 when this next *Computer Chronicles* episode aired. At this point, parallel processing was largely the domain of expensive "super" minicomputers that were marketed as less-expensive alternatives--relatively speaking--to traditional mainframes.
 
 ## Stewart and Gary Playing with Their Trains
 

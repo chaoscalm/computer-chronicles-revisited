@@ -9,7 +9,7 @@ tags:
 draft: False
 ---
 
-As we close out 1985 on *Computer Chronicles*, the discussion returned to a familiar subject--storage devices. This [next episode](https://www.youtube.com/watch?v=PBsKakmW0fs) looked at hard disk storage specifically. Keep in mind, hard disks were still not considered standard equipment at this time. The Macintosh, for example, did not come with a hard drive. And while you could purchase an IBM PC-AT with a 30 MB internal drive, many users still had to make an aftermarket purchase to acquire a hard disk, which could run over $1,000. Even at the lower end, you would still pay several hundred dollars for a device that stored a total of 60 MB.
+As we close out 1985 on *Computer Chronicles*, the discussion returned to a familiar subject--storage devices. This next episode looked at hard disk storage specifically. Keep in mind, hard disks were still not considered standard equipment at this time. The Macintosh, for example, did not come with a hard drive. And while you could purchase an IBM PC-AT with a 30 MB internal drive, many users still had to make an aftermarket purchase to acquire a hard disk, which could run over $1,000. Even at the lower end, you would still pay several hundred dollars for a device that stored a total of 60 MB.
 
 ## Were Hard Drives Reliable?
 

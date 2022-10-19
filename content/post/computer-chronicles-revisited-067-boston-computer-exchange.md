@@ -11,7 +11,7 @@ draft: False
 
 On August 12, 1991, the Boston Computer Exchange (BCE) held an "Irish wake" for the original IBM Personal Computer. The 10-year-old PC had finally reached the point where it had no resale value, a BCE manager claimed, so it was now time to mark the machine's "transition from a salable commodity to a donation item."
 
-The BCE was one of the first used computer dealers in the United States. Even jumping back five years to 1986, *Computer Chronicles* had already taken notice of the growing market for second hand computers. Indeed, BCE's co-founder was among the guests on this [October 1986 episode](https://www.youtube.com/watch?v=_WsFrVld5_8) devoted to the topic.
+The BCE was one of the first used computer dealers in the United States. Even jumping back five years to 1986, *Computer Chronicles* had already taken notice of the growing market for second hand computers. Indeed, BCE's co-founder was among the guests on this October 1986 episode devoted to the topic.
 
 Stewart Cheifet and Gary Killdal opened the program by looking through the classified ads in a local newspaper. Cheifet pointed to an ad for a used 1983 IBM PC XT selling for $2,495. Cheifet looked up that model in *The Brown Book*, a Blue Book-style guide for used computers, which suggested the machine's value was closer to $2,380. Cheifet asked Kildall how nervous someone should be about buying a used computer. Kildall quipped he was probably more nervous about buying a new computer given the rapid advances in microprocessor speeds. You might actually be safer buying a used machine.
 

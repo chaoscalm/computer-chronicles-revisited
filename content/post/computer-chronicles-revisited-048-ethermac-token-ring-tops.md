@@ -11,7 +11,7 @@ draft: False
 
 IBM was not having the best year in 1985. In October, Big Blue reported its third consecutive drop in quarterly profits. *TopView*, IBM's attempt to introduce multi-tasking into DOS, had not taken the business market by storm. And then there was the ever-increasing competition from various PC clone makers.
 
-But we're still in the period where many industry observers kept their faith in IBM's ability to brute-force its will upon the market. That leads into our [next *Computer Chronicles* episode from October 1985](https://www.youtube.com/watch?v=illGtdeI6uo), which focused on computer networks. As Stewart Cheifet mentioned during the [last episode's "Random Access"](https://smoliva.blog/post/computer-chronicles-revisited-047-the-well/) segment, IBM had recently launched its new token ring system, which was the company's challenge to 3Com's Ethernet standard in local area networking. 
+But we're still in the period where many industry observers kept their faith in IBM's ability to brute-force its will upon the market. That leads into our next *Computer Chronicles* episode from October 1985, which focused on computer networks. As Stewart Cheifet mentioned during the [last episode's "Random Access"](https://smoliva.blog/post/computer-chronicles-revisited-047-the-well/) segment, IBM had recently launched its new token ring system, which was the company's challenge to 3Com's Ethernet standard in local area networking. 
 
 ## Would Token Ring Become the New Standard in LANs?
 

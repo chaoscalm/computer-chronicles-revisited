@@ -9,7 +9,7 @@ tags:
 draft: False
 ---
 
-During the run of *Computer Chronicles* thus far, IBM launched a number of products that failed to dominate their respective markets, including the PCjr, *TopView*, and token ring. But that didn't stop Big Blue from trying to recapture its early PC glory days. This [next *Chronicles* episode from October 1986](https://www.youtube.com/watch?v=DIccm7H3OA0) demonstrated yet another stumble in the form of the IBM RT PC, which despite the name was not part of its personal computer line, but rather an experimental minicomputer/microcomputer hybrid based on an architectural approach known as RISC.
+During the run of *Computer Chronicles* thus far, IBM launched a number of products that failed to dominate their respective markets, including the PCjr, *TopView*, and token ring. But that didn't stop Big Blue from trying to recapture its early PC glory days. This next *Chronicles* episode from October 1986 demonstrated yet another stumble in the form of the IBM RT PC, which despite the name was not part of its personal computer line, but rather an experimental minicomputer/microcomputer hybrid based on an architectural approach known as RISC.
 
 Unable to avoid the obvious dad joke, Stewart Cheifet opened the program by showing Gary Kildall a [RISK game board](https://boardgamereviewed.com/reviews/risk-board-game-review/). But the topic of course was RISC, which stood for "reduced instruction set computing." Cheifet noted that major players like IBM and Hewlett-Packard were now involved in RISC. And while some people were saying RISC was the "wave of the future," others said it was "already a passe technology."
 

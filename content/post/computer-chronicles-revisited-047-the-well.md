@@ -15,7 +15,7 @@ There was substantial resistance to S.1305 from civil liberties advocates and th
 
 A decade later, Congress passed the Communications Decency Act, which included the famous [Section 230](https://www.eff.org/issues/cda230), a provision that largely immunized providers of "interactive computer services" from any legal liability for posts made by their users. But in these earlier, pre-Internet days, BBS operators were still viewed with a good deal of skepticism by many lawmakers and perhaps the public at-large.
 
-This [next *Computer Chronicles* episode from October 1985](https://www.youtube.com/watch?v=Pb7te_HZyiA) discussed the growing legal issues surrounding bulletin board systems. It also provided a broader overview of the growing impact of modem technology on computer usage. There was even a demonstration of a specific BBS that grew into one of the earliest--and still active--online communities.
+This next *Computer Chronicles* episode from October 1985 discussed the growing legal issues surrounding bulletin board systems. It also provided a broader overview of the growing impact of modem technology on computer usage. There was even a demonstration of a specific BBS that grew into one of the earliest--and still active--online communities.
 
 ## "Missing Half the Fun of Owning a Computer" 
 

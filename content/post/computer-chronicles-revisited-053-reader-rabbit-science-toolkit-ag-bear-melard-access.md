@@ -9,7 +9,7 @@ tags:
 draft: False
 ---
 
-This [next *Computer Chronicles* episode](https://www.youtube.com/watch?v=9UHp-4CW8jM&t=907s) launched the annual tradition of presenting a "buyers guide" for the holiday season. (It's referred to as a "Christmas Buyer's Guide" for this first installment.) These episodes would air each December for the duration of the series and typically featured panels composed of regular contributors.
+This next *Computer Chronicles* episode launched the annual tradition of presenting a "buyers guide" for the holiday season. (It's referred to as a "Christmas Buyer's Guide" for this first installment.) These episodes would air each December for the duration of the series and typically featured panels composed of regular contributors.
 
 Indeed, this first buyers guide had no in-studio guests aside from the three regular contributors from this third season: George Morrow, Paul Schindler, and Wendy Woods (who made her first on-set appearance). Woods presented one remote segment, but otherwise this episode simply had the hosts and contributors recommend technology-themed gifts to the viewers.
 

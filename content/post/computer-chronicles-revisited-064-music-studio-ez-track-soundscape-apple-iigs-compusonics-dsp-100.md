@@ -9,7 +9,7 @@ tags:
 draft: False
 ---
 
-The Battle of the 16-Bit Computers was in full swing by late 1986, with the Apple IIgs joining the fray against the Commodore Amiga and the Atari ST at the lower end of the market. One of the key fronts in this battle was sound--specifically, the ability of these newer machines to produce digital music. Computer music was still in its infancy but had taken a significant step forward thanks to the development of a new standard called MIDI, which was the focus of this [September 1986 episode of *Computer Chronicles*](https://www.youtube.com/watch?v=eitBQT8zOIg).
+The Battle of the 16-Bit Computers was in full swing by late 1986, with the Apple IIgs joining the fray against the Commodore Amiga and the Atari ST at the lower end of the market. One of the key fronts in this battle was sound--specifically, the ability of these newer machines to produce digital music. Computer music was still in its infancy but had taken a significant step forward thanks to the development of a new standard called MIDI, which was the focus of this September 1986 episode of *Computer Chronicles*.
 
 Instead of hearing the usual *Chronicles* theme music as the show faded in for the introduction, there was an automated tune playing on a Casio SK-1 keyboard in the studio. Cheifet noted that computer keyboards had come a long way in the two years since the [previous *Chronicles* episode on computer music back in season one](https://smoliva.blog/post/computer-chronicles-revisited-003-music-construction-set-alpha-syntauri/). For example, the Casio keyboard cost about $100 and came with a built-in synthesizer capable of digital sampling.
 
