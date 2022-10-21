@@ -58,3 +58,5 @@ Episode | Date | Title | Description | Publisher | Price
 409 | November 1986 | *Scriptor* | Television Script Utility | Screenplay Systems, Inc. | $300
 410 | November 1986 | *IQ Test* | IQ Test | Rational Designs | $40
 411 | November 1986 | *The Toy Shop* | Design Tool | Broderbund Software | $65
+412 | November 1986 | *Time Bandit* | Maze Game | MichTron | $40
+413 | December 1986 | *Perspective* | 3D Graphing | 3D Graphics | $300
