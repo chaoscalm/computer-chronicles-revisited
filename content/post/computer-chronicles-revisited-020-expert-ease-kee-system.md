@@ -2,7 +2,6 @@
 title: Computer Chronicles Revisited, Part 20 — Expert-Ease and the KEE System
 description: The Computer Chronicles discusses artificial intelligence.
 date: 2021-07-26
-thumbnail: "img/cc-nuclear.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:

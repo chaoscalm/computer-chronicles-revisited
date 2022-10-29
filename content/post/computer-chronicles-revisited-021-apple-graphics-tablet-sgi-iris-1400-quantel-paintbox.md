@@ -2,7 +2,6 @@
 title: Computer Chronicles Revisited, Part 21 — The Apple Graphics Tablet, SGI IRIS 1400, and Quantel Paintbox
 description: The Computer Chronicles discusses computer graphics.
 date: 2021-08-01
-thumbnail: "img/cc-koala.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:

@@ -2,7 +2,6 @@
 title: Computer Chronicles Revisited, Part 13 — The IBM PROFS (and the Macintosh)
 description: The Computer Chronicles discusses business applications.
 date: 2021-06-24
-thumbnail: "img/cc-jobs.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:

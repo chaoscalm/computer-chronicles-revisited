@@ -2,7 +2,6 @@
 title: Computer Chronicles Revisited, Part 19 — The HP 2700 and the Apple Macintosh
 description: The Computer Chronicles discusses computer ergonomics.
 date: 2021-07-17
-thumbnail: "img/cc-control-panel.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:

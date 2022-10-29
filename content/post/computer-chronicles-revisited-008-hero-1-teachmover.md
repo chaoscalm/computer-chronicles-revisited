@@ -2,7 +2,6 @@
 title: Computer Chronicles Revisited, Part 8 — The Hero-1 and the TeachMover
 description: The Computer Chronicles discusses robotics.
 date: 2021-06-06
-thumbnail: "img/cc-teachmover.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:

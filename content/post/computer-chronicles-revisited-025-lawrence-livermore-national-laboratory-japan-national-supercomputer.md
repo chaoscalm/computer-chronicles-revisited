@@ -2,7 +2,6 @@
 title: Computer Chronicles Revisited, Part 25 — The Lawrence Livermore National Laboratory and Japan's National Supercomputer Project
 description: The Computer Chronicles discusses supercomputers. 
 date: 2021-08-22
-thumbnail: "img/cc-cray.jpg"
 categories:
   - "Computer Chronicles Revisited"
 tags:

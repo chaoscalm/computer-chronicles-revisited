@@ -2,7 +2,6 @@
 title: Computer Chronicles Revisited, Part 9 — The VOTAN V5000 and the Speech Plus CallText
 description: The Computer Chronicles discusses speech synthesis.
 date: 2021-06-08
-thumbnail: "img/cc-voice.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:

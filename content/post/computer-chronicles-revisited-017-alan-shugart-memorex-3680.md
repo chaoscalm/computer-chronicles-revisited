@@ -2,7 +2,6 @@
 title: Computer Chronicles Revisited, Part 17 — Alan Shugart and the Memorex 3680
 description: The Computer Chronicles discusses storage devices.
 date: 2021-07-05
-thumbnail: "img/cc-bubble.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:

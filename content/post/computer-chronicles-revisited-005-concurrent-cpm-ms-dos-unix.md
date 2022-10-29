@@ -2,7 +2,6 @@
 title: Computer Chronicles Revisited, Part 5 — Concurrent CP/M, MS-DOS & UNIX
 description: The Computer Chronicles discusses operating systems.
 date: 2021-05-24
-thumbnail: "img/cc-tog.png"
 categories:
   - "Computer Chronicles Revisited"
 tags: 

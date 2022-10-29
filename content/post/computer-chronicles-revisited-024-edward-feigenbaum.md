@@ -2,7 +2,6 @@
 title: Computer Chronicles Revisited, Part 24 — Edward Feigenbaum
 description: The Computer Chronicles discusses Fifth Generation computers.
 date: 2021-08-20
-thumbnail: "img/cc-billion.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:

@@ -2,7 +2,6 @@
 title: Computer Chronicles Revisited, Part 11 — The Am2901C and Am29116
 description: The Computer Chronicles discusses microchips.
 date: 2021-06-14
-thumbnail: "img/cc-amd.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:

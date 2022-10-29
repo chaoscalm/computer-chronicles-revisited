@@ -2,7 +2,6 @@
 title: Computer Chronicles Revisited, Part 2 — Visi On vs. the Apple Lisa
 description: The Computer Chronicles discusses integrated software.
 date: 2021-05-12
-thumbnail: "img/cc-apple-lisa.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:

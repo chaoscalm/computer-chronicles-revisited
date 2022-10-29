@@ -2,7 +2,6 @@
 title: Computer Chronicles Revisited, Part 7 — Donn B. Parker and the Digi-Link
 description: The Computer Chronicles discusses computer security.
 date: 2021-06-01
-thumbnail: "img/cc-hackers.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:

@@ -2,7 +2,6 @@
 title: Computer Chronicles Revisited, Part 3 — Music Construction Set and the Alpha Syntauri
 description: The Computer Chronicles discusses computer music.
 date: 2021-05-19
-thumbnail: "img/cc-mcs.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:

@@ -2,7 +2,6 @@
 title: Computer Chronicles Revisited, Part 12 — The Xerox Color Laser Printer
 description: The Computer Chronicles discusses printers.
 date: 2021-06-22
-thumbnail: "img/cc-baboon.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:

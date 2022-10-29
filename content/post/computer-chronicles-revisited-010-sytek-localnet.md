@@ -2,7 +2,6 @@
 title: Computer Chronicles Revisited, Part 10 — The Sytek LocalNet
 description: The Computer Chronicles discusses local area networks.
 date: 2021-06-12
-thumbnail: "img/cc-sytek.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:

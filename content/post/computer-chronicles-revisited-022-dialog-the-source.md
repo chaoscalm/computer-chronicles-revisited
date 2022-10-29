@@ -2,7 +2,6 @@
 title: Computer Chronicles Revisited, Part 22 — Dialog and The Source
 description: The Computer Chronicles discusses online databases.
 date: 2021-08-09
-thumbnail: "img/cc-source-infoworld.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:

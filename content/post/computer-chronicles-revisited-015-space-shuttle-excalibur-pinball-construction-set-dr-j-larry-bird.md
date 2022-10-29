@@ -2,7 +2,6 @@
 title: Computer Chronicles Revisited, Part 15 — Space Shuttle, Excalibur, Pinball Construction Set, and Dr. J vs. Larry Bird
 description: The Computer Chronicles discusses computer games from Activision, Atari, and Electronic Arts.
 date: 2021-07-01
-thumbnail: "img/cc-shuttle.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:

@@ -2,7 +2,6 @@
 title: Computer Chronicles Revisited, Part 16 — The Apple Logo Programming Language
 description: The Computer Chronicles discusses computers in education.
 date: 2021-07-04
-thumbnail: "img/cc-logo-01.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:

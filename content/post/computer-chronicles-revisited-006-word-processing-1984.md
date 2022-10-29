@@ -2,7 +2,6 @@
 title: Computer Chronicles Revisited, Part 6 — Wordvision, Word Plus, and the Writer's Workbench
 description: The Computer Chronicles discusses word processing.
 date: 2021-05-26
-thumbnail: "img/cc-wordvision.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:

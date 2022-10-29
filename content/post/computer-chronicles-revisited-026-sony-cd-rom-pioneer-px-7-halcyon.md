@@ -2,7 +2,6 @@
 title: Computer Chronicles Revisited, Part 26 — The Sony CD-ROM, Pioneer PX-7, and Halcyon
 description: The Computer Chronicles discusses laser disk storage.
 date: 2021-08-30
-thumbnail: "img/cc-thayer.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:

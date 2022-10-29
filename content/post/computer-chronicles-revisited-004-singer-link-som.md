@@ -2,7 +2,6 @@
 title: Computer Chronicles Revisited, Part 4 — Singer Link and SOM
 description: The Computer Chronicles discusses simulator software.
 date: 2021-05-23
-thumbnail: "img/cc-simulator.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:

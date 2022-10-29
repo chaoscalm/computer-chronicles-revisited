@@ -60,3 +60,4 @@ Episode | Date | Title | Description | Publisher | Price
 411 | November 1986 | *The Toy Shop* | Design Tool | Broderbund Software | $65
 412 | November 1986 | *Time Bandit* | Maze Game | MichTron | $40
 413 | December 1986 | *Perspective* | 3D Graphing | 3D Graphics | $300
+414 | June 1987 | *TMPC* | Time Management | Acroatix | $50

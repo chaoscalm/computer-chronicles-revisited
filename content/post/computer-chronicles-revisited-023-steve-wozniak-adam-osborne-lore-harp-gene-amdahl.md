@@ -2,7 +2,6 @@
 title: Computer Chronicles Revisited, Part 23 — Steve Wozniak, Adam Osborne, Lore Harp, and Gene Amdahl
 description: The Computer Chronicles discusses computer entrepreneurs.
 date: 2021-08-16
-thumbnail: "img/cc-harp.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:

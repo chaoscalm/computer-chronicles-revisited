@@ -2,7 +2,6 @@
 title: Computer Chronicles Revisited, Part 18 — Personal COBOL, Forth, and DR Logo
 description: The Computer Chronicles discusses programming languages.
 date: 2021-07-11
-thumbnail: "img/cc-rather.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:

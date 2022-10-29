@@ -2,7 +2,6 @@
 title: Computer Chronicles Revisited, Part 14 — Express EasyScan and The Sales Edge
 description: The Computer Chronicles discusses computer-aided decision making.
 date: 2021-06-27
-thumbnail: "img/cc-edge.png"
 categories:
   - "Computer Chronicles Revisited"
 tags:
