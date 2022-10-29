@@ -5,7 +5,7 @@ date: 2021-10-25
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Computers-and-the-Disabled"
+  - "Computers and the Disabled"
 ---
 
 Up to this point on *Computer Chronicles*--we're now at February 1985 in terms of broadcast dates--the featured computers have largely relied on typewriter-style keyboards as input devices and cathode-ray tube monitors for output. (Even the mouse had only started to enter more general usage with the 1984 release of the Apple Macintosh.) But in this next episode, the focus is on individuals who have different accessibility requirements when it came to using computers.

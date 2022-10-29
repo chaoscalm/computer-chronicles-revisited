@@ -5,7 +5,7 @@ date: 2022-01-23
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Japanese-Robotics"
+  - "Japanese Computer Technology"
 draft: False
 ---
 

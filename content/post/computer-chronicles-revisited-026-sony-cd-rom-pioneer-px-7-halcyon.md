@@ -5,7 +5,7 @@ date: 2021-08-30
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Laser-Disk-Storage"
+  - "Laser Disk Storage"
 ---
 
 This episode of *Computer Chronicles* shows some of the minor tweaking to the show's format between the first and second seasons. The first is the addition of Wendy Woods as a correspondent. Woods took over narrating the customary B-roll feature following the introduction and also conducted remote interviews with guests related to the topic of the episode. 

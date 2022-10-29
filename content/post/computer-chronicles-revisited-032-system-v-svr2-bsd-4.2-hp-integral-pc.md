@@ -5,7 +5,7 @@ date: 2021-11-08
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Unix"
+  - "UNIX"
 ---
 
 In 1969, a computer scientist at Bell Labs named Ken Thompson wrote an operating system for a [Digital Equipment Corporation PDP-7](https://www.soemtron.org/pdp7.html) minicomputer that he initially dubbed *Unics*. This was later renamed *UNIX* and continued to be developed at Bell throughout the 1970s, with each numbered version corresponding to the current edition of the accompanying *UNIX Programmer's Manual*. In fact, just a few days ago marked the 50th anniversary of [UNIX Version 1](https://www.bell-labs.com/usr/dmr/www/1stEdman.html), dated November 3, 1971.

@@ -5,7 +5,7 @@ date: 2021-07-17
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Computer-Ergonomics"
+  - "Computer Ergonomics"
 ---
 
 When Apple released the Macintosh--later known as the Macintosh 128K--in January 1984, its main selling point was the graphical user interface (GUI). Although the original Macintosh operating system's GUI was largely based on what Apple deployed on the [Lisa](https://www.smoliva.blog/post/computer-chronicles-revisited-002-apple-lisa-vs-visi-on/) a year earlier, the company believed the new machine's lower price point would make the interface more accessible to a larger audience. 

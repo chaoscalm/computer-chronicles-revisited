@@ -5,7 +5,7 @@ date: 2021-06-08
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Speech-Synthesis"
+  - "Speech Synthesis"
 ---
 
 This next episode of *The Computer Chronicles* from early 1984 examined the status of speech synthesis technology. Stewart Cheifet opened the program by showing off a mini version of the popular Speak & Spell toy. He also demonstrated the [Minolta AF-S V](https://petapixel.com/2017/01/12/minolta-af-s-v-talker-80s-camera-spoke/), a "talking" camera that could vocalize basic warning messages to the user, such as that lighting conditions were "too dark!" and the operator needed to "use flash!"

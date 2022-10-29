@@ -5,7 +5,7 @@ date: 2021-08-20
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Fifth-Generation-Computers"
+  - "Fifth Generation Computers"
 ---
 
 For this episode, I'm going to handle things a bit differently. There was only a single guest--Stanford University computer science professor Edward Feigenbaum--and the subject is one that, quite frankly, does not strike me as all that interesting. So rather than do an extended point-by-point recap of the episode, I'm just going to summarize in broad strokes. Trust me, if you had watched the episode, you'd thank me.

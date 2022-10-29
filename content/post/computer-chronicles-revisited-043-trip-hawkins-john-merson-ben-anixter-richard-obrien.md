@@ -5,7 +5,7 @@ date: 2022-02-21
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Slowdown-in-Silicon-Valley"
+  - "Slowdown in Silicon Valley"
 draft: False
 ---
 

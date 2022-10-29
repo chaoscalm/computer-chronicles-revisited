@@ -5,7 +5,7 @@ date: 2022-03-21
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Modems-and-Bulletin-Boards"
+  - "Modems and Bulletin Boards"
 draft: False
 ---
 

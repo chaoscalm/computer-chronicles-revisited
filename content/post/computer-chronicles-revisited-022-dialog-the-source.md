@@ -5,7 +5,7 @@ date: 2021-08-09
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Online-Databases"
+  - "Database Software"
 --- 
 
 The ostensible topic of this next *Computer Chronicles* episode was databases. But what we're really talking about here are early online information systems--that is, the precursor to the modern Internet. This was a time (1984) when just getting online was a chore. First, you needed a personal computer with a separate modem peripheral connected to a telephone line. Then you needed a subscription to an online service. The service itself charged you by the minute or hour for access--and that was on top of any long-distance phone charges you might incur if the service did not have a local number.

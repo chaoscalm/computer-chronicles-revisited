@@ -5,7 +5,7 @@ date: 2022-01-16
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Japanese-Personal-Computers"
+  - "Japanese PCs"
 draft: False
 ---
 

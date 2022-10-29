@@ -5,7 +5,7 @@ date: 2021-07-04
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Computers-in-Education"
+  - "Computers in Education"
 ---
 
 Today, [Python](https://www.python.org/) is probably the most popular computer programming language taught in elementary and secondary schools. (There's even a terrific podcast, [*Teaching Python*](https://www.teachingpython.fm/), on this subject.) But back in the 1980s, BASIC was the language of choice for many introductory computer classrooms. Specifically, versions of Microsoft BASIC came with many popular 8-bit microcomputers, including the Apple II and Commodore 64, which were also commonly used in schools at the time.

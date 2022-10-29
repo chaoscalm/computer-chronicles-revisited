@@ -5,7 +5,7 @@ date: 2022-03-07
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Printers-and-Business-Graphics"
+  - "Printers and Business Graphics"
 draft: False
 ---
 

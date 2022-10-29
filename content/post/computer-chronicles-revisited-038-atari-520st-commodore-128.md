@@ -5,7 +5,7 @@ date: 2021-12-26
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Low-End-Computers"
+  - "Low End Computers"
 draft: False
 ---
 

@@ -5,7 +5,7 @@ date: 2022-03-27
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Computer-Networks"
+  - "Computer Networks"
 draft: False
 ---
 

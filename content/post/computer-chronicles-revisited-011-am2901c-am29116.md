@@ -5,7 +5,7 @@ date: 2021-06-14
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Microprocessors"
+  - "Microchip Technology"
 ---
 
 Computer architecture is usually described in terms of *bits*. For instance, we often speak of early personal computers from the late 1970s and early 1980s as *8-bit machines*. In simple terms, this means that the CPUs in these computers could only address 8 bits of data at a time, with each *bit* representing a single binary digit (0 or 1). But even when the first episodes of *The Computer Chronicles* started to air in late 1983, there were already 16-bit processors on the market, such as the [Intel 8086](https://en.wikipedia.org/wiki/Intel_8086), and 32-bit machines had started to become a reality. 

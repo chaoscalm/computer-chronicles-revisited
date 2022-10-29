@@ -5,7 +5,7 @@ date: 2022-03-02
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Women-in-Computing"
+  - "Women in Computing"
 draft: False
 ---
 

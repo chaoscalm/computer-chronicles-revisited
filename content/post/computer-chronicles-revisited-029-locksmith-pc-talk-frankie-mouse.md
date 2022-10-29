@@ -5,7 +5,7 @@ date: 2021-10-03
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Software-Piracy"
+  - "Software Piracy"
 ---
 
 In the [last episode](https://smoliva.blog/post/computer-chronicles-revisited-028-tandy-1000-compaq-portable/), Wendy Woods mentioned that during her testing of IBM PC software compatibility with the PCjr that only the version of Borland's *Sidekick* without copy protection worked with the latter machine. The version with copy protection was incompatible with the PCjr. 

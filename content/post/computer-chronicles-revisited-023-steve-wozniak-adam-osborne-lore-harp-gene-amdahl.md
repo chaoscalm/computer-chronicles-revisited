@@ -5,7 +5,7 @@ date: 2021-08-16
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Computer-Entrepreneurs"
+  - "Computer Entrepreneurs"
 ---
 
 This next *Computer Chronicles* episode focused squarely on people rather than products. The formal subject is "computer entrepreneurs." And the four guests are people who were all quite well known in the computer industry during the early 1980s. What's fascinating, as we'll see a bit later, is that two of the guests had ventures that each managed to flame out not long after this episode aired.

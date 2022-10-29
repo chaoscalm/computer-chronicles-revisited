@@ -5,7 +5,7 @@ date: 2021-05-26
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Word-Processors"
+  - "Word Processing"
  
 ---
 

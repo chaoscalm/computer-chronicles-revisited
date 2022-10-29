@@ -5,7 +5,7 @@ date: 2021-10-18
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Portable-Computers"
+  - "Portable Computers"
 ---
 
 Although Paul Schindler's commentary comes at the end of the episode just before "Random Access," I thought I'd discuss his thoughts upfront this time as it helps provide some useful context for this early January 1985 episode, which is about portable computers. Schindler compared a portable computer to a portable sewing machine. With respect to the latter, he said it made more sense for most people just to carry a needle with them. Sure, you wouldn't be able to do any fancy sewing with a needle, but you could do smaller jobs quickly. 

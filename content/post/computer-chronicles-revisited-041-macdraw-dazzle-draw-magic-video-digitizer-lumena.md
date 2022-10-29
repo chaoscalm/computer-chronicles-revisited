@@ -5,7 +5,7 @@ date: 2022-01-31
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Computer-Graphics"
+  - "Computer Graphics"
 ---
 
 When *Computer Chronicles* [first delved into the topic of computer graphics](https://smoliva.blog/post/computer-chronicles-revisited-021-apple-graphics-tablet-sgi-iris-1400-quantel-paintbox/) back in April 1984, the focus was largely on high-end professional systems, such as the $150,000 Quantel Paintbox. More than a year later, in June 1985, *Chronicles* closed out its second season with another computer graphics show that looked at more affordable offerings for personal computer users. 

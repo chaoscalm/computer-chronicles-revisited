@@ -5,7 +5,7 @@ date: 2022-05-01
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Amiga-and-Atari"
+  - "Amiga and Atari"
 draft: False
 ---
 

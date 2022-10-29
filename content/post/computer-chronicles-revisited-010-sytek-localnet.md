@@ -5,7 +5,7 @@ date: 2021-06-12
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Local-Area-Networks"
+  - "Networking"
 
 ---
 

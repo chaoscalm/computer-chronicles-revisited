@@ -5,7 +5,7 @@ date: 2021-08-01
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Computer-Graphics"
+  - "Computer Graphics"
 ---
 
 Personal computers of the early 1980s were often limited to just a few colors for on-screen graphics. The Apple IIe, for example, could display up to 16 colors at one time depending on the screen resolution. And of course, no home computer of this era could produce genuine 3D graphics. That capability was limited to very high-end machines designed for industrial or commercial use.

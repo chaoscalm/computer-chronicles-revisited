@@ -5,7 +5,7 @@ date: 2021-07-26
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Artificial-Intelligence"
+  - "Artificial Intelligence"
 ---
 
 In [Part 14](https://www.smoliva.blog/post/computer-chronicles-revisited-014-express-easyscan-sales-edge/) of this series, the *Computer Chronicles* first discussed the subject of "expert systems." This referred to computer knowledge bases that purported to replicate a human's expertise in a particular field. This next *Chronicles* episode revisits the idea of expert systems as part of a broader discussion of artificial intelligence.

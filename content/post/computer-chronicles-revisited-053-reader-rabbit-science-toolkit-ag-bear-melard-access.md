@@ -5,7 +5,7 @@ date: 2022-05-08
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Holiday-Buying-Guides"
+  - "Holiday Buying Guides"
 draft: False
 ---
 

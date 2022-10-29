@@ -5,7 +5,7 @@ date: 2021-07-11
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Programming-Languages"
+  - "Programming Languages"
 ---
 
 In [Part 16](https://www.smoliva.blog/post/computer-chronicles-revisited-016-apple-logo-programming-language/), we saw a demonstration of Apple Logo, a computer programming language promoted as an alternative to BASIC. This next episode of *The Computer Chronicles* features another version of Logo--this one developed and sold by co-host Gary Kildall's Digital Research--as well as a broader discussion of the state of computer programming languages around early 1984. The other languages presented in this episode--COBOL, Forth, and Pascal--are still in use today, even if they are not necessarily at the top of the [Stack Overflow survey of most popular programming languages](https://insights.stackoverflow.com/survey/2020#technology-programming-scripting-and-markup-languages-all-respondents).

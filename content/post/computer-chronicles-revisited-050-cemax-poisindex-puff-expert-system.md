@@ -5,7 +5,7 @@ date: 2022-04-11
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Computers-and-Medicine"
+  - "Computers and Medicine"
 draft: False
 ---
 

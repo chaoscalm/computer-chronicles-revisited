@@ -5,7 +5,7 @@ date: 2021-05-23
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Simulator-Software"
+  - "Computer Simulations"
 ---
 
 Normally, *The Computer Chronicles* highlighted consumer software and hardware. Stewart Cheifet often described his role as doing the legwork on behalf of the viewer so they knew what products to buy. This particular episode, however, goes in a somewhat different direction. The subject is simulator software, but aside from the opening host segment, the episode is largely devoted to proprietary software used in non-consumer applications. 

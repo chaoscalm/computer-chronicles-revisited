@@ -5,7 +5,7 @@ date: 2021-09-20
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Computer-Games"
+  - "Computer Games"
 ---
 
 The original Macintosh would not seem like an obvious gaming machine. It retailed for $2,500 at the time of its January 1984 release. You could have bought a dozen Atari 2600 consoles for the same amount of money. And while the Macintosh did boast high-resolution bitmap graphics--as well as the ability to display multiple windows--it came on a 9-inch monochrome display. Even the lowly Commodore 64 could display 16 colors, and use an ordinary television set to boot.

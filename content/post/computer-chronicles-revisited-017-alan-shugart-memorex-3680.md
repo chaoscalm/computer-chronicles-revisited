@@ -5,7 +5,7 @@ date: 2021-07-05
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Storage-Devices"
+  - "Storage Devices"
 ---
 
 This next episode of *The Computer Chronicles* from 1984 is about storage devices, specifically disk drives. At this point in the microcomputer revolution, the 5.25-inch floppy disk is the accepted standard. But a number of new technologies are vying to supplant it. And while Gary Kildall was bullish on at least some of these new technologies eventually gaining mainstream acceptance, one of the guests aggressively pushed back on the idea.

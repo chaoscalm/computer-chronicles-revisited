@@ -5,7 +5,7 @@ date: 2021-05-11
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Computer-History"
+  - "Mainframes to Minis to Micros"
 ---
 
 *The Computer Chronicles* debuted as a national television program in the United States in the fall of 1983. The series was the brainchild of [Stewart Cheifet](http://cheifet.com/), then the general manager at KCSM-TV, a public television station based in San Mateo, California, located in the heart of Silicon Valley. Cheifet originally launched *Chronicles* as a live, local program in 1981, which was hosted by [Jim Warren](https://en.wikipedia.org/wiki/Jim_Warren_(computer_specialist)), the co-founder of the [West Coast Computer Faire](https://www.atariarchives.org/bcc3/showpage.php?page=98), an annual computer convention based in San Francisco. 

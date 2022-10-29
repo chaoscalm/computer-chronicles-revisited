@@ -5,7 +5,7 @@ date: 2022-05-15
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Hard-Disk-Storage"
+  - "Hard Disk Storage"
 draft: False
 ---
 

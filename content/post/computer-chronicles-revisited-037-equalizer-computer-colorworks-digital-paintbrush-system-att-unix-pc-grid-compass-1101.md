@@ -5,7 +5,7 @@ date: 2021-12-19
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Communications"
+  - "Computers and Communications"
 draft: False
 ---
 

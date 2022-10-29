@@ -5,7 +5,7 @@ date: 2022-04-04
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Computers-and-Politics"
+  - "Computers and Politics"
 draft: False
 ---
 

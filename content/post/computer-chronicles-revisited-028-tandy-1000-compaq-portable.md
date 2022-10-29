@@ -5,7 +5,7 @@ date: 2021-09-26
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "IBM-Compatibles"
+  - "IBM Compatibles"
 ---
 
 Purchasing software in the late 1980s often required the buyer to carefully read the label, especially if you owned a personal computer that purported to be "compatible" with IBM. Take this diskette for the IBM port of [*The Bard's Tale III: Thief of Fate*](https://www.mobygames.com/game/bards-tale-iii-thief-of-fate):

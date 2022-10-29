@@ -5,7 +5,7 @@ date: 2021-12-01
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Macintosh-Computer"
+  - "The Macintosh Computer"
 draft: False
 ---
 

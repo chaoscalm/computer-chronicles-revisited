@@ -5,7 +5,7 @@ date: 2021-07-01
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Computer-Games"
+  - "Computer Games"
 ---
 
 Even if you're only a casual gamer, there are probably a few video game designers whose names you're familiar with, such as Sid Meier, Todd Howard, and Shigeru Miyamoto. From the early days of computer gaming, there was a concerted effort to promote certain "superstar" designers to help personalize and sell games to the public. This next episode of *The Computer Chronicles* featured three such designers from the early 1980s, as well as an executive whose name would become synonymous with computer and video game production in the decades that followed.

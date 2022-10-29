@@ -5,7 +5,7 @@ date: 2022-04-18
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Optical-Storage-Devices"
+  - "Optical Storage Devices"
 draft: False
 ---
 

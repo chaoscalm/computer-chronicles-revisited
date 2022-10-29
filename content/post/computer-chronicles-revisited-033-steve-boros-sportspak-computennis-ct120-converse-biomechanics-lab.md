@@ -5,7 +5,7 @@ date: 2021-11-14
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Computers-in-Sports"
+  - "Computers and Sports"
 ---
 
 Michael Lewis' 2003 book *Moneyball: The Art of Winning an Unfair Game* described Oakland Athletics general manager Billy Beane's use of advanced statistical analysis--known as sabermetrics--to build his team. The book was later turned into a film, which only further cemented the popular notion that Beane was the key figure in marrying computer-aided statistical research to the 19th century pastoral game.

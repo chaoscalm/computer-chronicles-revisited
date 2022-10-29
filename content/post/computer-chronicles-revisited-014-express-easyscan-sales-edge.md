@@ -5,7 +5,7 @@ date: 2021-06-27
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Computer-Aided-Decision-Making"
+  - "Decision Support Systems"
 ---
 
 In a bit of eerie foreshadowing, this episode of *The Computer Chronicles* from January 1984 opened with a discussion of a global pandemic. Not a real one, of course, but a computer simulation. Stewart Cheifet and Gary Kildall played with a game called [*Epidemic*](https://archive.org/details/a8b_Epidemic_1983_12_SSI_US), released by Strategic Simulations. Cheifet explained this was an example of how someone could use a computer to choose among alternatives, make a decision, and establish a complex strategy for solving a problem. In this case, the problem was a global pandemic caused by a virus brought from outer space by meteors. *Epidemic* provided the player with information about the spread of the virus and offered alternatives, such as developing a vaccine, for containing the pandemic. 

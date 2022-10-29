@@ -5,7 +5,7 @@ date: 2021-05-19
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Computer-Music"
+  - "Computer Music"
   
 ---
 

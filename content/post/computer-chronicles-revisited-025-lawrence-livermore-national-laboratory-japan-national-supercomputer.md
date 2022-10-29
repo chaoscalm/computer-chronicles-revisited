@@ -5,7 +5,7 @@ date: 2021-08-22
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Supercomputers"
+  - "Super Computers"
 ---
 
 You often hear people describe modern smartphones as a "supercomputer in your pocket." There's definitely some truth to that, especially when you compare today's phones with the supercomputers of 40 years ago. In the mid-1980s, supercomputer manufacturers were still struggling with concepts like parallel processing, i.e., breaking down a program into smaller tasks that could run simultaneously on multiple microprocessors. Today, in contrast, multi-core, multi-threaded CPU cores are the norm on just about every personal computing device.

@@ -5,7 +5,7 @@ date: 2021-05-12
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Integrated-Software"
+  - "Integrated Software"
 ---
 
 There was apparently a roughly two-month gap between the taping of episodes of *The Computer Chronicles* in late 1983 and their initial airing in early 1984. Looking back 37 years later, this gap may not seem that significant. But in just the second broadcast episode, it may be that *Chronicles* unintentionally provided information that was already out-of-date to its PBS audience.

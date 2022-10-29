@@ -5,7 +5,7 @@ date: 2022-03-13
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Computers-and-the-Media"
+  - "Computers in the Media"
 draft: False
 ---
 

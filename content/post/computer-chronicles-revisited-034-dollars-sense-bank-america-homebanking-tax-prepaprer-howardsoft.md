@@ -5,7 +5,7 @@ date: 2021-11-23
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Personal-Finance-Software"
+  - "Personal Finance Software"
 ---
 
 The debut of *VisiCalc* in 1979 is often considered the first "killer app" for the personal computer. This early spreadsheet program helped propel sales of the Apple II, as it gave the machine a practical use for business customers. Along similar lines, a number of burgeoning software companies pushed personal finance software in the early 1980s as the next step in expanding personal computers into the home market.

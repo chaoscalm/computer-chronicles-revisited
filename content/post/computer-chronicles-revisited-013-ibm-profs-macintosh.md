@@ -5,7 +5,7 @@ date: 2021-06-24
 categories:
   - "Computer Chronicles Revisited"
 tags:
-  - "Business-Applications"
+  - "Business Applications"
 ---
 
 The episode I'm covering today was taped on January 18, 1984, four days before [Super Bowl XVIII](https://www.pro-football-reference.com/boxscores/198401220rai.htm). That game would go down in computing history for the famous [Apple "1984" commercial](https://www.youtube.com/watch?v=VtvjbmoDx-I) that announced the launch of the original [Macintosh](https://apple-history.com/128k) (later known as the Macintosh 128K). As this *Chronicles* episode aired the week after the Super Bowl, Stewart Cheifet devoted a good portion of the post-show "Random Access" segment to the new machine and what it might mean for Apple for the rest of 1984.
