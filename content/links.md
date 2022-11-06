@@ -17,8 +17,10 @@ menu: main
 + [**A Critical Hit**](https://www.acriticalhit.com/) -- Website of video game historian Kate Willaert.
 + [**Classic Computer Magazine Archive**](https://www.atarimagazines.com/antic/) -- Project run by Kevin Savetz to preesrve *Antic* and other computer magazines from the 1970s, 1980s, and 1990s.
 + [**Computer History Museum**](https://computerhistory.org/) -- Silicon Valley-based museum of computer history.
-+ [**Ms. Mad Lemon**](http://msmadlemon.sidproject.co.uk/) -- A United Kingdom-based musician and video producer who focuses on the Commodore Amiga and other 1980s-era computers.
++ [**DOS Game Club**](https://www.dosgameclub.com/) -- A monthly online discussion and podcast focused on MS-DOS computer games.
++ [**Ms. Mad Lemon**](http://msmadlemon.sidproject.co.uk/) -- A United Kingdom-based musician and video creator who focuses on the Commodore Amiga and other retro computers.
 + [**Retro Game Club Podcast**](https://retrogameclub.net/) -- A podcast about retro gaming with a focus on programming, emulation, and projects you can do at home.
++ [**The CRPG Addict**](https://crpgaddict.blogspot.com/) -- A blogger who (since 2010) has been playing through every computer role playing game (CRPG) ever released.
 + [**The Silicon Underground**](https://dfarq.homeip.net/) -- Personal blog of David L. Farquhar.
 + [**They Create Worlds**](https://www.theycreateworlds.com/) -- Podcast on the history of the video game industry hosted by Alexander Smith and Jeffrey Daum. 
 + [**Veronica Explains**](https://vkc.sh/) -- Personal website of Veronica Cary, a producer of videos on Linux and retro computer technology.
