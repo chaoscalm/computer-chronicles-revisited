@@ -39,6 +39,11 @@ title = "RSS"
 url = "https://smoliva.blog/index.xml"
 
 [[params.socialIcons]]
+icon = "fab fa-mastodon"
+title = "Mastodon"
+url = "https://chronrevisited.online/@smoliva"
+
+[[params.socialIcons]]
 icon = "fab fa-linkedin"
 title = "LinkedIn"
 url = "https://www.linkedin.com/in/smoliva/"
